@@ -1,0 +1,977 @@
+Date,Shift,SPPH,Dump Truck,Exca,Tonase,Jam Dumping,Loading Point,Dumping Point,Jarak (m),Pengukuran,Jenis BB,Group,Status,Input Type,Input By,Nama Operator
+2024-09-24,Shift 1,SGJ1,DT 015 SGJ,Exca 007 SGJ,23.7,22:25:17.201,1A Ext,DH 4,2500,Timbangan,BTB 53,Group D,Rehandling Antar Stock Blok Timur,Checker,Ade Triwibowo,Unknown Operator
+2024-09-24,Shift 1,SGJ2,DT 032 SGJ,Exca 007 SGJ,22.57,22:15:22.973,1A Ext,DH 4,2500,Timbangan,BTB 53,Group D,Rehandling Antar Stock Blok Timur,Checker,Ade Triwibowo,Unknown Operator
+2024-09-24,Shift 1,SGJ2,DT 032 SGJ,Exca 007 SGJ,21.48,22:43:18.677,1A Ext,DH 4,2500,Timbangan,BTB 53,Group D,Rehandling Antar Stock Blok Timur,Checker,Ade Triwibowo,Unknown Operator
+2024-09-24,Shift 1,SGJ2,DT 037 SGJ,Exca 007 SGJ,21.23,22:36:34.165,1A Ext,DH 4,2500,Timbangan,BTB 53,Group D,Rehandling Antar Stock Blok Timur,Checker,Ade Triwibowo,Unknown Operator
+2024-09-24,Shift 1,SGJ2,DT 040 SGJ,Exca 007 SGJ,23.56,22:25:00.167,1A Ext,DH 4,2500,Timbangan,BTB 53,Group D,Rehandling Antar Stock Blok Timur,Checker,Ade Triwibowo,Unknown Operator
+2024-09-24,Shift 1,SGJ2,DT 043 SGJ,Exca 007 SGJ,22.82,22:17:07.752,1A Ext,DH 4,2500,Timbangan,BTB 53,Group D,Rehandling Antar Stock Blok Timur,Checker,Ade Triwibowo,Unknown Operator
+2024-09-24,Shift 1,SGJ2,DT 043 SGJ,Exca 007 SGJ,23.58,22:39:41.478,1A Ext,DH 4,2500,Timbangan,BTB 53,Group D,Rehandling Antar Stock Blok Timur,Checker,Ade Triwibowo,Unknown Operator
+2024-09-24,Shift 1,SGJ2,DT 046 SGJ,Exca 007 SGJ,37.68,22:25:31.311,1A Ext,DH 4,2500,Timbangan,BTB 53,Group D,Rehandling Antar Stock Blok Timur,Checker,Ade Triwibowo,Unknown Operator
+2024-09-24,Shift 1,SGJ2,DT 049 SGJ,Exca 007 SGJ,22.2,22:17:55.908,1A Ext,DH 4,2500,Timbangan,BTB 53,Group D,Rehandling Antar Stock Blok Timur,Checker,Ade Triwibowo,Unknown Operator
+2024-09-24,Shift 1,SGJ2,DT 049 SGJ,Exca 007 SGJ,21.48,22:36:50.024,1A Ext,DH 4,2500,Timbangan,BTB 53,Group D,Rehandling Antar Stock Blok Timur,Checker,Ade Triwibowo,Unknown Operator
+2024-09-24,Shift 1,SGJ2,DT 055 SGJ,Exca 007 SGJ,23.58,22:17:36.564,1A Ext,DH 4,2500,Timbangan,BTB 53,Group D,Rehandling Antar Stock Blok Timur,Checker,Ade Triwibowo,Unknown Operator
+2024-09-24,Shift 1,SGJ2,DT 055 SGJ,Exca 007 SGJ,23.84,22:36:04.389,1A Ext,DH 4,2500,Timbangan,BTB 53,Group D,Rehandling Antar Stock Blok Timur,Checker,Ade Triwibowo,Unknown Operator
+2024-09-24,Shift 1,SGJ3,DT 083 SGJ,Exca 007 SGJ,20.78,22:18:19.893,1A Ext,DH 4,2500,Timbangan,BTB 53,Group D,Rehandling Antar Stock Blok Timur,Checker,Ade Triwibowo,Unknown Operator
+2024-09-24,Shift 1,SGJ3,DT 083 SGJ,Exca 007 SGJ,23.56,22:44:50.618,1A Ext,DH 4,2500,Timbangan,BTB 53,Group D,Rehandling Antar Stock Blok Timur,Checker,Ade Triwibowo,Unknown Operator
+2024-09-24,Shift 1,SPARE,DT 059 SGJ,Exca 007 SGJ,22.57,22:55:00.000,1A Ext,DH 4,2500,Timbangan,BTB 53,Group D,Rehandling Antar Stock Blok Timur,Checker,Dwi Miansyah,Unknown Operator
+2024-09-24,Shift 2,BAK,DT 3010-38 PAB,Exca 006 PIM,27.37,09:54:00.000,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Yusuf Tarami,Unknown Operator
+2024-09-24,Shift 2,BAK,DT 3010-38 PAB,Exca 006 PIM,27.37,10:35:00.000,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Yusuf Tarami,Unknown Operator
+2024-09-24,Shift 2,BAK,DT 3010-38 PAB,Exca 006 PIM,27.37,11:02:00.000,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Yusuf Tarami,Unknown Operator
+2024-09-24,Shift 2,BAK,DT 3010-38 PAB,Exca 006 PIM,27.37,11:37:00.000,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Yusuf Tarami,Unknown Operator
+2024-09-24,Shift 2,BAK,DT 3010-38 PAB,Exca 006 PIM,27.37,13:47:00.000,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Yusuf Tarami,Unknown Operator
+2024-09-24,Shift 2,BAK,DT 3010-39 PAB,Exca 006 PIM,27.37,10:06:00.000,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Yusuf Tarami,Unknown Operator
+2024-09-24,Shift 2,BAK,DT 3010-39 PAB,Exca 006 PIM,27.37,10:44:00.000,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Yusuf Tarami,Unknown Operator
+2024-09-24,Shift 2,BAK,DT 3010-39 PAB,Exca 006 PIM,27.37,11:36:00.000,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Yusuf Tarami,Unknown Operator
+2024-09-24,Shift 2,BAK,DT 3010-39 PAB,Exca 006 PIM,27.37,13:51:00.000,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Yusuf Tarami,Unknown Operator
+2024-09-24,Shift 2,BAK,DT 3010-40 PAB,Exca 006 PIM,27.37,09:52:00.000,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Yusuf Tarami,Unknown Operator
+2024-09-24,Shift 2,BAK,DT 3010-40 PAB,Exca 006 PIM,27.37,10:33:00.000,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Yusuf Tarami,Unknown Operator
+2024-09-24,Shift 2,BAK,DT 3010-40 PAB,Exca 006 PIM,27.37,11:15:00.000,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Yusuf Tarami,Unknown Operator
+2024-09-24,Shift 2,BAK,DT 3010-40 PAB,Exca 006 PIM,27.37,11:45:00.000,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Yusuf Tarami,Unknown Operator
+2024-09-24,Shift 2,BAK,DT 3010-40 PAB,Exca 006 PIM,27.37,13:45:00.000,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Yusuf Tarami,Unknown Operator
+2024-09-24,Shift 2,BAK,DT 3010-41 PAB,Exca 006 PIM,27.37,10:01:00.000,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Yusuf Tarami,Unknown Operator
+2024-09-24,Shift 2,BAK,DT 3010-41 PAB,Exca 006 PIM,27.37,10:41:00.000,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Yusuf Tarami,Unknown Operator
+2024-09-24,Shift 2,BAK,DT 3010-41 PAB,Exca 006 PIM,27.37,11:16:00.000,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Yusuf Tarami,Unknown Operator
+2024-09-24,Shift 2,BAK,DT 3010-41 PAB,Exca 006 PIM,27.37,11:47:00.000,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Yusuf Tarami,Unknown Operator
+2024-09-24,Shift 2,BAK,DT 3010-41 PAB,Exca 006 PIM,27.37,13:51:00.000,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Yusuf Tarami,Unknown Operator
+2024-09-24,Shift 2,BAK,DT 3010-43 PAB,Exca 005 PIM,27.48125,08:35:30.666,LS DH 4,DH 4,800,Beltscale,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,Awang Dayal,Unknown Operator
+2024-09-24,Shift 2,BAK,DT 3010-43 PAB,Exca 005 PIM,27.48125,08:51:56.438,LS DH 4,DH 4,800,Beltscale,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,Awang Dayal,Unknown Operator
+2024-09-24,Shift 2,BAK,DT 3010-43 PAB,Exca 005 PIM,27.48125,09:18:12.324,LS DH 4,DH 4,800,Beltscale,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,Awang Dayal,Unknown Operator
+2024-09-24,Shift 2,BAK,DT 3010-43 PAB,Exca 005 PIM,29.5,10:49:43.222,LS DH 4,LS 4,3500,Bypass,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,Awang Dayal,Unknown Operator
+2024-09-24,Shift 2,BAK,DT 3010-43 PAB,Exca 005 PIM,29.5,11:28:46.267,LS DH 4,LS 4,3500,Bypass,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,Awang Dayal,Unknown Operator
+2024-09-24,Shift 2,BAK,DT 3010-43 PAB,Exca 005 PIM,29.5,13:58:08.147,LS DH 4,LS 4,3500,Bypass,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,Awang Dayal,Unknown Operator
+2024-09-24,Shift 2,BAK,DT 3010-47PAB,Exca 006 PIM,27.37,11:06:00.000,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Yusuf Tarami,Unknown Operator
+2024-09-24,Shift 2,BAK,DT 3010-47PAB,Exca 006 PIM,27.37,11:32:00.000,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Yusuf Tarami,Unknown Operator
+2024-09-24,Shift 2,BAK,DT 3010-48 PAB,Exca 005 PIM,27.48125,08:52:22.129,LS DH 4,DH 4,800,Beltscale,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,Awang Dayal,Unknown Operator
+2024-09-24,Shift 2,BAK,DT 3010-48 PAB,Exca 005 PIM,27.48125,09:01:37.639,LS DH 4,DH 4,800,Beltscale,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,Awang Dayal,Unknown Operator
+2024-09-24,Shift 2,BAK,DT 3010-48 PAB,Exca 005 PIM,27.48125,09:10:26.833,LS DH 4,DH 4,800,Beltscale,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,Awang Dayal,Unknown Operator
+2024-09-24,Shift 2,BAK,DT 3010-48 PAB,Exca 005 PIM,29.5,10:49:46.402,LS DH 4,LS 4,3500,Bypass,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,Awang Dayal,Unknown Operator
+2024-09-24,Shift 2,BAK,DT 3010-48 PAB,Exca 005 PIM,29.5,11:28:53.626,LS DH 4,LS 4,3500,Bypass,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,Awang Dayal,Unknown Operator
+2024-09-24,Shift 2,BAK,DT 3010-53 PAB,Exca 005 PIM,27.48125,08:35:49.008,LS DH 4,DH 4,800,Beltscale,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,Awang Dayal,Unknown Operator
+2024-09-24,Shift 2,BAK,DT 3010-53 PAB,Exca 005 PIM,27.48125,09:01:27.389,LS DH 4,DH 4,800,Beltscale,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,Awang Dayal,Unknown Operator
+2024-09-24,Shift 2,BAK,DT 3010-53 PAB,Exca 006 PIM,27.37,09:40:00.000,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Yusuf Tarami,Unknown Operator
+2024-09-24,Shift 2,BAK,DT 3010-53 PAB,Exca 006 PIM,27.37,10:16:00.000,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Yusuf Tarami,Unknown Operator
+2024-09-24,Shift 2,BAK,DT 3010-53 PAB,Exca 006 PIM,27.37,10:55:00.000,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Yusuf Tarami,Unknown Operator
+2024-09-24,Shift 2,BAK,DT 3010-53 PAB,Exca 006 PIM,27.37,13:39:00.000,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Hasan Tarami,Unknown Operator
+2024-09-24,Shift 2,BAK,DT 3010-54 PAB,Exca 005 PIM,27.48125,08:52:45.937,LS DH 4,DH 4,800,Beltscale,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,Awang Dayal,Unknown Operator
+2024-09-24,Shift 2,BAK,DT 3010-54 PAB,Exca 005 PIM,27.48125,08:59:39.927,LS DH 4,DH 4,800,Beltscale,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,Awang Dayal,Unknown Operator
+2024-09-24,Shift 2,BAK,DT 3010-54 PAB,Exca 005 PIM,27.48125,09:21:53.487,LS DH 4,DH 4,800,Beltscale,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,Awang Dayal,Unknown Operator
+2024-09-24,Shift 2,BAK,DT 3010-54 PAB,Exca 005 PIM,29.5,10:52:09.152,LS DH 4,LS 4,3500,Bypass,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,Awang Dayal,Unknown Operator
+2024-09-24,Shift 2,BAK,DT 3010-54 PAB,Exca 005 PIM,29.5,11:17:47.413,LS DH 4,LS 4,3500,Bypass,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,Awang Dayal,Unknown Operator
+2024-09-24,Shift 2,BAK,DT 3010-55 PAB,Exca 005 PIM,27.48125,08:52:33.282,LS DH 4,DH 4,800,Beltscale,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,Awang Dayal,Unknown Operator
+2024-09-24,Shift 2,BAK,DT 3010-55 PAB,Exca 005 PIM,27.48125,08:57:39.680,LS DH 4,DH 4,800,Beltscale,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,Awang Dayal,Unknown Operator
+2024-09-24,Shift 2,BAK,DT 3010-55 PAB,Exca 006 PIM,27.37,09:49:00.000,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Yusuf Tarami,Unknown Operator
+2024-09-24,Shift 2,BAK,DT 3010-55 PAB,Exca 006 PIM,27.37,10:21:00.000,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Yusuf Tarami,Unknown Operator
+2024-09-24,Shift 2,BAK,DT 3010-55 PAB,Exca 006 PIM,27.37,10:57:00.000,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Yusuf Tarami,Unknown Operator
+2024-09-24,Shift 2,BAK,DT 3010-55 PAB,Exca 006 PIM,27.37,11:21:00.000,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Yusuf Tarami,Unknown Operator
+2024-09-24,Shift 2,BAK,DT 3010-55 PAB,Exca 005 PIM,29.5,13:51:29.774,LS DH 4,LS 4,3500,Bypass,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,Awang Dayal,Unknown Operator
+2024-09-24,Shift 2,BAK,DT 3010-56 PAB,Exca 3010-19 PAB,29.5,10:43:00.000,TS CCP,CC21,6100,Bypass,MT 47,Group B,Rehandling Blok Barat,Checker,Richard Furqan,Unknown Operator
+2024-09-24,Shift 2,BAK,DT 3010-61 PAB,Exca 006 PIM,27.37,10:10:00.000,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Yusuf Tarami,Unknown Operator
+2024-09-24,Shift 2,BAK,DT 3010-61 PAB,Exca 006 PIM,27.37,10:46:00.000,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Yusuf Tarami,Unknown Operator
+2024-09-24,Shift 2,BAK,DT 3010-61 PAB,Exca 006 PIM,27.37,11:47:00.000,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Yusuf Tarami,Unknown Operator
+2024-09-24,Shift 2,BAK,DT 3010-64 PAB,Exca 005 PIM,27.48125,09:10:03.362,LS DH 4,DH 4,800,Beltscale,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,Awang Dayal,Unknown Operator
+2024-09-24,Shift 2,BAK,DT 3010-64 PAB,Exca 005 PIM,27.48125,09:12:11.334,LS DH 4,DH 4,800,Beltscale,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,Awang Dayal,Unknown Operator
+2024-09-24,Shift 2,BAK,DT 3010-64 PAB,Exca 005 PIM,27.48125,09:22:00.316,LS DH 4,DH 4,800,Beltscale,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,Awang Dayal,Unknown Operator
+2024-09-24,Shift 2,BAK,DT 3010-64 PAB,Exca 005 PIM,29.5,10:49:48.964,LS DH 4,LS 4,3500,Bypass,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,Awang Dayal,Unknown Operator
+2024-09-24,Shift 2,BAK,DT 3010-64 PAB,Exca 005 PIM,29.5,10:59:48.671,LS DH 4,LS 4,3500,Bypass,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,Awang Dayal,Unknown Operator
+2024-09-24,Shift 2,BAK,DT 3010-64 PAB,Exca 005 PIM,29.5,11:17:53.283,LS DH 4,LS 4,3500,Bypass,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,Awang Dayal,Unknown Operator
+2024-09-24,Shift 2,BAK,DT 3010-64 PAB,Exca 005 PIM,29.5,13:47:42.787,LS DH 4,LS 4,3500,Bypass,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,Awang Dayal,Unknown Operator
+2024-09-24,Shift 2,BAK,DT 3010-66 PAB,Exca 006 PIM,27.37,10:27:00.000,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Yusuf Tarami,Unknown Operator
+2024-09-24,Shift 2,BAK,DT 3010-66 PAB,Exca 006 PIM,27.37,10:59:00.000,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Yusuf Tarami,Unknown Operator
+2024-09-24,Shift 2,BAK,DT 3010-66 PAB,Exca 006 PIM,27.37,11:24:00.000,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Yusuf Tarami,Unknown Operator
+2024-09-24,Shift 2,BAK,DT 3010-66 PAB,Exca 005 PIM,29.5,13:58:30.654,LS DH 4,LS 4,3500,Bypass,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,Awang Dayal,Unknown Operator
+2024-09-24,Shift 2,BAK,DT 4010-13 PAB,Exca 3010-16 PAB,34.48,10:45:00.000,TS CCP,CC21,6100,Bypass,MT 47,Group B,Rehandling Blok Barat,Checker,Richard Furqan,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 002 RDP,Exca 3021 RDP,29.06,10:39:52.134,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group B,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 002 RDP,Exca 3021 RDP,29.06,11:27:51.083,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group B,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 002 RDP,Exca 3021 RDP,29.06,13:40:51.100,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group B,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 004 RDP,Exca 3021 RDP,29.06,10:42:21.105,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group B,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 005 RDP,Exca 3021 RDP,29.06,10:47:47.292,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group B,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 005 RDP,Exca 3021 RDP,29.06,11:38:11.793,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group B,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 005 RDP,Exca 3021 RDP,29.06,13:50:16.669,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group B,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 006 RDP,Exca 3021 RDP,29.06,10:22:11.348,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group B,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 006 RDP,Exca 3021 RDP,29.06,11:27:46.400,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group B,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 006 RDP,Exca 3021 RDP,29.06,13:58:43.713,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group B,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 007 RDP,Exca 3019 RDP,26.961915,09:17:29.874,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Jhon Bernard,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 007 RDP,Exca 3019 RDP,26.961915,09:51:58.982,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Jhon Bernard,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 007 RDP,Exca 3019 RDP,26.961915,10:18:38.610,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Jhon Bernard,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 007 RDP,Exca 3019 RDP,26.961915,10:58:24.431,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Jhon Bernard,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 007 RDP,Exca 3019 RDP,26.961915,11:24:29.731,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Jhon Bernard,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 007 RDP,Exca 3019 RDP,26.961915,11:52:25.485,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Jhon Bernard,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 007 RDP,Exca 3019 RDP,26.961915,13:45:12.432,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Jhon Bernard,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 008 RDP,Exca 3019 RDP,26.961915,09:13:29.770,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Jhon Bernard,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 008 RDP,Exca 3019 RDP,26.961915,09:49:27.330,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Jhon Bernard,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 008 RDP,Exca 3019 RDP,26.961915,10:14:48.298,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Jhon Bernard,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 008 RDP,Exca 3019 RDP,26.961915,10:52:36.304,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Jhon Bernard,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 008 RDP,Exca 3019 RDP,26.961915,11:20:36.831,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Jhon Bernard,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 008 RDP,Exca 3019 RDP,26.961915,11:51:02.686,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Jhon Bernard,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 008 RDP,Exca 3019 RDP,26.961915,13:34:12.106,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Jhon Bernard,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 009 RDP,Exca 3019 RDP,26.961915,09:10:06.060,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Jhon Bernard,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 009 RDP,Exca 3019 RDP,26.961915,09:42:20.850,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Jhon Bernard,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 009 RDP,Exca 3019 RDP,26.961915,10:31:21.658,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Jhon Bernard,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 009 RDP,Exca 3019 RDP,26.961915,10:59:22.099,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Jhon Bernard,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 009 RDP,Exca 3019 RDP,26.961915,11:28:45.560,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Jhon Bernard,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 009 RDP,Exca 3019 RDP,26.961915,13:28:51.060,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Jhon Bernard,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 009 RDP,Exca 3019 RDP,26.961915,13:59:16.392,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Jhon Bernard,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 010 RDP,Exca 3019 RDP,26.961915,09:20:32.924,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Jhon Bernard,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 010 RDP,Exca 3019 RDP,26.961915,09:59:33.821,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Jhon Bernard,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 010 RDP,Exca 3019 RDP,26.961915,10:32:23.364,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Jhon Bernard,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 010 RDP,Exca 3019 RDP,26.961915,11:05:48.748,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Jhon Bernard,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 010 RDP,Exca 3019 RDP,26.961915,11:34:29.775,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Jhon Bernard,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 010 RDP,Exca 3019 RDP,26.961915,13:41:20.222,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Jhon Bernard,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 011 RDP,Exca 3019 RDP,26.961915,09:11:45.006,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Jhon Bernard,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 011 RDP,Exca 3019 RDP,26.961915,09:42:54.945,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Jhon Bernard,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 011 RDP,Exca 3019 RDP,26.961915,10:14:06.252,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Jhon Bernard,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 011 RDP,Exca 3019 RDP,26.961915,10:44:49.285,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Jhon Bernard,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 011 RDP,Exca 3019 RDP,26.961915,11:15:16.754,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Jhon Bernard,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 011 RDP,Exca 3019 RDP,26.961915,11:43:05.329,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Jhon Bernard,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 011 RDP,Exca 3019 RDP,26.961915,13:48:06.310,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Jhon Bernard,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 012 RDP,Exca 3019 RDP,26.961915,09:29:14.368,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Jhon Bernard,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 012 RDP,Exca 3019 RDP,26.961915,10:03:11.649,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Jhon Bernard,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 012 RDP,Exca 3019 RDP,26.961915,10:38:56.314,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Jhon Bernard,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 012 RDP,Exca 3019 RDP,26.961915,11:10:24.574,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Jhon Bernard,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 012 RDP,Exca 3019 RDP,26.961915,11:40:10.455,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Jhon Bernard,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 012 RDP,Exca 3019 RDP,26.961915,13:24:16.773,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Jhon Bernard,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 012 RDP,Exca 3019 RDP,26.961915,13:52:35.850,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Jhon Bernard,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 013 RDP,Exca 3019 RDP,26.961915,09:32:52.909,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Jhon Bernard,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 013 RDP,Exca 3019 RDP,26.961915,10:09:18.993,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Jhon Bernard,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 013 RDP,Exca 3019 RDP,26.961915,10:43:20.064,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Jhon Bernard,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 013 RDP,Exca 3019 RDP,26.961915,11:15:30.875,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Jhon Bernard,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 013 RDP,Exca 3019 RDP,26.961915,11:42:52.342,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Jhon Bernard,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 013 RDP,Exca 3019 RDP,26.961915,13:37:42.621,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group B,Rehandling Blok Timur,Checker,Jhon Bernard,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 014 RDP,Exca 3020 RDP,29.06,10:22:03.412,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group B,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 014 RDP,Exca 3020 RDP,29.06,11:22:40.537,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group B,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 014 RDP,Exca 3020 RDP,29.06,13:55:07.630,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group B,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 015 RDP,Exca 3020 RDP,29.06,12:14:34.367,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group B,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 015 RDP,Exca 3020 RDP,29.06,13:47:27.129,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group B,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 016 RDP,Exca 3020 RDP,29.06,10:14:33.344,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group B,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 016 RDP,Exca 3020 RDP,29.06,10:58:35.365,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group B,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 016 RDP,Exca 3020 RDP,29.06,11:49:57.696,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group B,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 016 RDP,Exca 3020 RDP,29.06,13:33:05.840,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group B,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 018 RDP,Exca 3020 RDP,29.06,10:16:50.179,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group B,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 018 RDP,Exca 3020 RDP,29.06,11:07:35.202,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group B,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 018 RDP,Exca 3020 RDP,29.06,11:57:07.098,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group B,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 018 RDP,Exca 3020 RDP,29.06,13:15:43.202,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group B,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 019 RDP,Exca 3020 RDP,29.06,10:07:49.726,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group B,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 019 RDP,Exca 3020 RDP,29.06,10:53:36.778,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group B,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 019 RDP,Exca 3020 RDP,29.06,11:38:23.717,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group B,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 019 RDP,Exca 3020 RDP,29.06,13:40:34.287,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group B,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 020 RDP,Exca 3020 RDP,29.06,10:26:31.674,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group B,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 020 RDP,Exca 3020 RDP,29.06,11:25:39.139,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group B,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 020 RDP,Exca 3020 RDP,29.06,13:59:36.497,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group B,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 021 RDP,Exca 3020 RDP,29.06,10:17:11.319,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group B,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 021 RDP,Exca 3020 RDP,29.06,11:10:41.098,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group B,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 021 RDP,Exca 3020 RDP,29.06,13:52:34.209,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group B,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 022 RDP,Exca 3020 RDP,29.06,10:43:32.954,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group B,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 022 RDP,Exca 3020 RDP,29.06,11:30:36.218,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group B,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 023 RDP,Exca 3020 RDP,29.06,10:07:36.668,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group B,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 023 RDP,Exca 3020 RDP,29.06,10:54:21.320,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group B,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 023 RDP,Exca 3020 RDP,29.06,11:39:25.384,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group B,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 024 RDP,Exca 3021 RDP,29.06,10:48:14.723,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group B,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 024 RDP,Exca 3021 RDP,29.06,11:36:50.611,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group B,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 025 RDP,Exca 3021 RDP,29.06,10:23:21.751,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group B,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 025 RDP,Exca 3021 RDP,29.06,11:14:18.068,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group B,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 025 RDP,Exca 3021 RDP,29.06,12:01:31.938,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group B,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 025 RDP,Exca 3021 RDP,29.06,13:08:35.802,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group B,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 025 RDP,Exca 3021 RDP,29.06,13:59:07.838,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group B,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 027 RDP,Exca 3021 RDP,29.06,10:44:20.829,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group B,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 027 RDP,Exca 3021 RDP,29.06,11:36:48.176,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group B,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 2,RDP,DT 027 RDP,Exca 3021 RDP,29.06,13:52:17.465,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group B,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 2,SGJ1,DT 001 SGJ,Exca 001 SGJ,21.5,11:01:36.812,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group B,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 2,SGJ1,DT 001 SGJ,Exca 001 SGJ,21.68,11:43:40.917,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group B,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 2,SGJ1,DT 002 SGJ,Exca 001 SGJ,21.7,11:44:44.267,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group B,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 2,SGJ1,DT 002 SGJ,Exca 001 SGJ,24.24,13:27:32.596,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group B,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 2,SGJ1,DT 006 SGJ,Exca 004 SGJ,24.08,10:34:48.955,TS CCP,RF 10,4300,Timbangan,MT 47,Group B,Rehandling Blok Barat,Checker,Ridwan Yunis,Unknown Operator
+2024-09-24,Shift 2,SGJ1,DT 006 SGJ,Exca 004 SGJ,23.46,11:09:30.194,TS CCP,RF 10,4300,Timbangan,MT 47,Group B,Rehandling Blok Barat,Checker,Ridwan Yunis,Unknown Operator
+2024-09-24,Shift 2,SGJ1,DT 006 SGJ,Exca 004 SGJ,23.28,11:37:36.851,TS CCP,RF 10,4300,Timbangan,MT 47,Group B,Rehandling Blok Barat,Checker,Ridwan Yunis,Unknown Operator
+2024-09-24,Shift 2,SGJ1,DT 006 SGJ,Exca 004 SGJ,24.76,13:48:22.440,TS CCP,RF 10,4300,Timbangan,MT 47,Group B,Rehandling Blok Barat,Checker,Ridwan Yunis,Unknown Operator
+2024-09-24,Shift 2,SGJ1,DT 007 SGJ,Exca 001 SGJ,26.02,10:52:49.556,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group B,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 2,SGJ1,DT 007 SGJ,Exca 001 SGJ,26.16,11:43:52.929,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group B,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 2,SGJ1,DT 007 SGJ,Exca 004 SGJ,22.27,13:31:12.941,TS CCP,RF 10,4300,Timbangan,MT 47,Group B,Rehandling Blok Barat,Checker,Ridwan Yunis,Unknown Operator
+2024-09-24,Shift 2,SGJ1,DT 009 SGJ,Exca 001 SGJ,24.32,10:36:56.215,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group B,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 2,SGJ1,DT 009 SGJ,Exca 001 SGJ,23.28,11:45:20.175,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group B,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 2,SGJ1,DT 009 SGJ,Exca 001 SGJ,24.72,13:44:25.270,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group B,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 2,SGJ1,DT 012 SGJ,Exca 001 SGJ,27.56,10:49:32.916,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group B,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 2,SGJ1,DT 012 SGJ,Exca 001 SGJ,24.9,11:44:26.343,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group B,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 2,SGJ1,DT 012 SGJ,Exca 004 SGJ,25.76,13:39:38.046,TS CCP,RF 10,4300,Timbangan,MT 47,Group B,Rehandling Blok Barat,Checker,Ridwan Yunis,Unknown Operator
+2024-09-24,Shift 2,SGJ1,DT 013 SGJ,Exca 001 SGJ,25.48,10:16:32.768,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group B,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 2,SGJ1,DT 013 SGJ,Exca 001 SGJ,25.56,11:11:23.876,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group B,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 2,SGJ1,DT 014 SGJ,Exca 004 SGJ,23.66,10:49:29.093,TS CCP,RF 10,4300,Timbangan,MT 47,Group B,Rehandling Blok Barat,Checker,Ridwan Yunis,Unknown Operator
+2024-09-24,Shift 2,SGJ1,DT 014 SGJ,Exca 004 SGJ,23.04,11:24:15.651,TS CCP,RF 10,4300,Timbangan,MT 47,Group B,Rehandling Blok Barat,Checker,Ridwan Yunis,Unknown Operator
+2024-09-24,Shift 2,SGJ1,DT 014 SGJ,Exca 004 SGJ,23.92,11:54:11.090,TS CCP,RF 10,4300,Timbangan,MT 47,Group B,Rehandling Blok Barat,Checker,Ridwan Yunis,Unknown Operator
+2024-09-24,Shift 2,SGJ1,DT 014 SGJ,Exca 004 SGJ,24.14,13:31:52.297,TS CCP,RF 10,4300,Timbangan,MT 47,Group B,Rehandling Blok Barat,Checker,Ridwan Yunis,Unknown Operator
+2024-09-24,Shift 2,SGJ1,DT 015 SGJ,Exca 007 SGJ,19.26,07:59:19.764,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SGJ1,DT 015 SGJ,Exca 007 SGJ,18.76,08:25:23.425,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SGJ1,DT 015 SGJ,Exca 007 SGJ,20.7,08:55:42.585,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SGJ1,DT 015 SGJ,Exca 007 SGJ,19.04,09:53:06.640,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SGJ1,DT 015 SGJ,Exca 007 SGJ,19.72,10:55:08.243,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SGJ1,DT 022 SGJ,Exca 001 SGJ,23.72,10:28:49.116,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group B,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 2,SGJ1,DT 022 SGJ,Exca 001 SGJ,25.08,11:44:54.193,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group B,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 2,SGJ1,DT 023 SGJ,Exca 005 PIM,18.82,08:20:21.337,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SGJ1,DT 023 SGJ,Exca 005 PIM,19.98,08:25:42.418,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SGJ1,DT 023 SGJ,Exca 007 SGJ,18.04,08:56:13.157,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SGJ1,DT 023 SGJ,Exca 007 SGJ,19.7,09:59:54.389,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SGJ1,DT 023 SGJ,Exca 007 SGJ,22.56,13:20:41.461,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SGJ1,DT 023 SGJ,Exca 007 SGJ,18.6,13:50:53.870,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SGJ1,DT 027 SGJ,Exca 004 SGJ,23.14,10:46:24.204,TS CCP,RF 10,4300,Timbangan,MT 47,Group B,Rehandling Blok Barat,Checker,Ridwan Yunis,Unknown Operator
+2024-09-24,Shift 2,SGJ1,DT 027 SGJ,Exca 004 SGJ,23.06,11:21:33.389,TS CCP,RF 10,4300,Timbangan,MT 47,Group B,Rehandling Blok Barat,Checker,Ridwan Yunis,Unknown Operator
+2024-09-24,Shift 2,SGJ1,DT 027 SGJ,Exca 004 SGJ,23.28,11:55:45.788,TS CCP,RF 10,4300,Timbangan,MT 47,Group B,Rehandling Blok Barat,Checker,Ridwan Yunis,Unknown Operator
+2024-09-24,Shift 2,SGJ1,DT 027 SGJ,Exca 004 SGJ,23.86,13:48:39.337,TS CCP,RF 10,4300,Timbangan,MT 47,Group B,Rehandling Blok Barat,Checker,Ridwan Yunis,Unknown Operator
+2024-09-24,Shift 2,SGJ2,DT 033 SGJ,Exca 005 PIM,23.58,08:22:10.875,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SGJ2,DT 033 SGJ,Exca 007 SGJ,25.84,09:53:38.839,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SGJ2,DT 033 SGJ,Exca 007 SGJ,24.76,10:54:49.740,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SGJ2,DT 033 SGJ,Exca 007 SGJ,25.58,11:45:47.957,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SGJ2,DT 033 SGJ,Exca 007 SGJ,21.86,13:39:00.136,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SGJ2,DT 036 SGJ,Exca 007 SGJ,24.08,08:53:05.667,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SGJ2,DT 036 SGJ,Exca 007 SGJ,24.22,09:19:12.997,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SGJ2,DT 036 SGJ,Exca 007 SGJ,23.46,10:37:15.656,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SGJ2,DT 036 SGJ,Exca 007 SGJ,24.88,10:59:14.876,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SGJ2,DT 036 SGJ,Exca 007 SGJ,23.84,11:45:38.382,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SGJ2,DT 036 SGJ,Exca 007 SGJ,25.68,11:54:35.984,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SGJ2,DT 037 SGJ,Exca 007 SGJ,24.29,08:57:31.166,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SGJ2,DT 037 SGJ,Exca 007 SGJ,24.17,10:35:59.921,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SGJ2,DT 037 SGJ,Exca 007 SGJ,24.95,10:55:29.288,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SGJ2,DT 037 SGJ,Exca 007 SGJ,24.09,11:45:59.090,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SGJ2,DT 037 SGJ,Exca 007 SGJ,18.23,13:11:30.540,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SGJ2,DT 037 SGJ,Exca 007 SGJ,22.55,13:38:29.656,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SGJ2,DT 038 SGJ,Exca 007 SGJ,19,13:20:54.790,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SGJ2,DT 038 SGJ,Exca 007 SGJ,22.1,13:43:57.786,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SGJ2,DT 040 SGJ,Exca 007 SGJ,24.44,08:21:10.442,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SGJ2,DT 040 SGJ,Exca 007 SGJ,22.12,08:28:49.430,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SGJ2,DT 040 SGJ,Exca 007 SGJ,24.68,09:10:06.293,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SGJ2,DT 040 SGJ,Exca 007 SGJ,24.72,10:36:46.098,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SGJ2,DT 040 SGJ,Exca 007 SGJ,21.68,13:26:54.726,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SGJ2,DT 041 SGJ,Exca 007 SGJ,20.44,13:20:28.153,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SGJ2,DT 041 SGJ,Exca 007 SGJ,26,13:50:38.470,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SGJ2,DT 042 SGJ,Exca 007 SGJ,18.08,13:24:42.459,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SGJ2,DT 042 SGJ,Exca 007 SGJ,23.22,13:47:30.931,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SGJ2,DT 043 SGJ,Exca 007 SGJ,23.32,08:21:30.369,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SGJ2,DT 043 SGJ,Exca 007 SGJ,22.84,08:31:33.668,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SGJ2,DT 043 SGJ,Exca 007 SGJ,24.52,09:18:07.950,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SGJ2,DT 043 SGJ,Exca 007 SGJ,23.88,10:36:30.504,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SGJ2,DT 043 SGJ,Exca 007 SGJ,22.94,10:55:52.103,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SGJ2,DT 043 SGJ,Exca 007 SGJ,24.24,11:45:20.529,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SGJ2,DT 044 SGJ,Exca 007 SGJ,23.84,08:19:34.983,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SGJ2,DT 044 SGJ,Exca 007 SGJ,23.7,08:24:36.228,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SGJ2,DT 044 SGJ,Exca 007 SGJ,26.14,08:56:02.936,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SGJ2,DT 044 SGJ,Exca 007 SGJ,18.82,13:12:33.159,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SGJ2,DT 044 SGJ,Exca 007 SGJ,19.04,13:38:42.803,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SGJ2,DT 046 SGJ,Exca 007 SGJ,21.34,13:27:11.344,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SGJ2,DT 046 SGJ,Exca Housekeeping,24.7,09:50:00.000,TLS 3,Disposal Pirang,5200,Bypass,Housekeeping,Group B,Houskeeping,Checker,Richard Furqan,Unknown Operator
+2024-09-24,Shift 2,SGJ2,DT 046 SGJ,Exca Housekeeping,24.7,10:54:00.000,TLS 3,Disposal Pirang,5200,Bypass,Housekeeping,Group B,Houskeeping,Checker,Richard Furqan,Unknown Operator
+2024-09-24,Shift 2,SGJ2,DT 046 SGJ,Exca Housekeeping,24.7,12:40:00.000,TLS 3,Disposal Pirang,5200,Bypass,Housekeeping,Group B,Houskeeping,Checker,Richard Furqan,Unknown Operator
+2024-09-24,Shift 2,SGJ2,DT 048 SGJ,Exca 004 SGJ,22.31,13:31:00.000,TS CCP,RF 10,4300,Timbangan,MT 47,Group B,Rehandling Blok Barat,Checker,Hasan Tarami,Unknown Operator
+2024-09-24,Shift 2,SGJ2,DT 049 SGJ,Exca 007 SGJ,24.8,08:22:50.955,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SGJ2,DT 049 SGJ,Exca 007 SGJ,23.24,08:53:17.885,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SGJ2,DT 049 SGJ,Exca 007 SGJ,24.52,09:29:55.307,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SGJ2,DT 049 SGJ,Exca 007 SGJ,21.56,10:54:37.457,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SGJ2,DT 049 SGJ,Exca 007 SGJ,24.56,11:18:12.157,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SGJ2,DT 049 SGJ,Exca 007 SGJ,23.86,11:54:25.685,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SGJ2,DT 051 SGJ,Exca 007 SGJ,23.46,08:59:53.536,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SGJ2,DT 051 SGJ,Exca 007 SGJ,24.86,10:36:12.779,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SGJ2,DT 051 SGJ,Exca 007 SGJ,23.78,10:55:37.838,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SGJ2,DT 051 SGJ,Exca 007 SGJ,24.68,11:44:47.189,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SGJ2,DT 052 SGJ,Exca 007 SGJ,23.72,09:59:41.257,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SGJ2,DT 052 SGJ,Exca 007 SGJ,18.38,13:12:45.325,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SGJ2,DT 052 SGJ,Exca 007 SGJ,21.58,13:39:12.651,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SGJ2,DT 053 SGJ,Exca 007 SGJ,19.58,13:12:19.170,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SGJ2,DT 053 SGJ,Exca 007 SGJ,20.3,13:29:46.050,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SGJ2,DT 054 SGJ,Exca 007 SGJ,23.06,13:24:58.525,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SGJ2,DT 054 SGJ,Exca 007 SGJ,25.12,13:39:29.961,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SGJ2,DT 056 SGJ,Exca 007 SGJ,18.54,13:32:08.946,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SGJ2,DT 057 SGJ,Exca 005 PIM,26.34,08:20:43.978,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SGJ2,DT 057 SGJ,Exca 005 PIM,23.36,08:26:05.352,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SGJ2,DT 057 SGJ,Exca 007 SGJ,25.36,09:08:03.480,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SGJ2,DT 057 SGJ,Exca 007 SGJ,22.72,13:37:52.171,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SGJ3,DT 061 SGJ,Exca 006 SGJ,20.32,11:03:55.785,TLS 2,RF 10,18000,Timbangan,AL 42,Group B,Rehandling Antar Stock Blok Barat,Checker,Ridwan Yunis,Unknown Operator
+2024-09-24,Shift 2,SGJ3,DT 061 SGJ,Exca 001 SGJ,23.65,11:55:00.912,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group B,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 2,SGJ3,DT 061 SGJ,Exca 001 SGJ,21.23,13:17:15.598,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group B,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 2,SGJ3,DT 061 SGJ,Exca 006 SGJ,19.78,13:50:07.648,TLS 2,RF 10,18000,Timbangan,AL 42,Group B,Rehandling Antar Stock Blok Barat,Checker,Ridwan Yunis,Unknown Operator
+2024-09-24,Shift 2,SGJ3,DT 063 SGJ,Exca 001 SGJ,22.22,11:01:54.887,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group B,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 2,SGJ3,DT 063 SGJ,Exca 006 SGJ,21.36,11:35:23.062,TLS 2,RF 10,18000,Timbangan,AL 42,Group B,Rehandling Antar Stock Blok Barat,Checker,Ridwan Yunis,Unknown Operator
+2024-09-24,Shift 2,SGJ3,DT 063 SGJ,Exca 001 SGJ,23.24,13:25:59.709,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group B,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 2,SGJ3,DT 065 SGJ,Exca 001 SGJ,24.54,10:54:32.329,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group B,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 2,SGJ3,DT 065 SGJ,Exca 006 SGJ,14.98,11:33:42.452,TLS 2,RF 10,18000,Timbangan,AL 42,Group B,Rehandling Antar Stock Blok Barat,Checker,Ridwan Yunis,Unknown Operator
+2024-09-24,Shift 2,SGJ3,DT 067 SGJ,Exca 001 SGJ,21.74,10:29:05.935,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group B,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 2,SGJ3,DT 067 SGJ,Exca 001 SGJ,20.52,11:18:34.105,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group B,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 2,SGJ3,DT 067 SGJ,Exca 001 SGJ,21.3,13:40:42.024,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group B,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 2,SGJ3,DT 069 SGJ,Exca 001 SGJ,21.12,10:16:53.657,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group B,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 2,SGJ3,DT 069 SGJ,Exca 006 SGJ,22.92,11:13:37.045,TLS 2,RF 10,18000,Timbangan,AL 42,Group B,Rehandling Antar Stock Blok Barat,Checker,Ridwan Yunis,Unknown Operator
+2024-09-24,Shift 2,SGJ3,DT 069 SGJ,Exca 001 SGJ,20.18,13:26:51.028,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group B,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 2,SGJ3,DT 072 SGJ,Exca 001 SGJ,22.01,11:48:55.082,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group B,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 2,SGJ3,DT 073 SGJ,Exca 001 SGJ,21.36,10:37:13.112,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group B,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 2,SGJ3,DT 073 SGJ,Exca 006 SGJ,21.06,11:18:42.820,TLS 2,RF 10,18000,Timbangan,AL 42,Group B,Rehandling Antar Stock Blok Barat,Checker,Ridwan Yunis,Unknown Operator
+2024-09-24,Shift 2,SGJ3,DT 073 SGJ,Exca 001 SGJ,23,13:37:09.324,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group B,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 2,SGJ3,DT 074 SGJ,Exca 001 SGJ,22.48,10:47:16.968,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group B,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 2,SGJ3,DT 074 SGJ,Exca 006 SGJ,20.28,11:27:50.553,TLS 2,RF 10,18000,Timbangan,AL 42,Group B,Rehandling Antar Stock Blok Barat,Checker,Ridwan Yunis,Unknown Operator
+2024-09-24,Shift 2,SGJ3,DT 074 SGJ,Exca 001 SGJ,21.18,13:26:19.457,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group B,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 2,SGJ3,DT 075 SGJ,Exca 001 SGJ,22.81,11:05:13.866,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group B,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 2,SGJ3,DT 075 SGJ,Exca 001 SGJ,22.01,11:53:56.224,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group B,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 2,SGJ3,DT 075 SGJ,Exca 001 SGJ,23.79,13:36:49.213,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group B,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 2,SGJ3,DT 078 SGJ,Exca 006 SGJ,21.63,11:05:50.323,TLS 2,RF 10,18000,Timbangan,AL 42,Group B,Rehandling Antar Stock Blok Barat,Checker,Ridwan Yunis,Unknown Operator
+2024-09-24,Shift 2,SGJ3,DT 079 SGJ,Exca 001 SGJ,21.2,10:40:00.533,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group B,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 2,SGJ3,DT 079 SGJ,Exca 001 SGJ,22.64,11:45:07.934,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group B,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 2,SGJ3,DT 079 SGJ,Exca 001 SGJ,22.74,13:41:07.374,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group B,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 2,SGJ3,DT 080 SGJ,Exca 001 SGJ,23.01,10:22:02.772,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group B,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 2,SGJ3,DT 080 SGJ,Exca 001 SGJ,22.91,11:11:10.082,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group B,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 2,SGJ3,DT 080 SGJ,Exca 001 SGJ,21.69,11:53:32.812,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group B,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 2,SGJ3,DT 080 SGJ,Exca 001 SGJ,20.91,13:44:13.353,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group B,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 2,SGJ3,DT 081 SGJ,Exca 001 SGJ,21.87,10:29:25.071,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group B,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 2,SGJ3,DT 081 SGJ,Exca 006 SGJ,20.76,11:06:24.171,TLS 2,RF 10,18000,Timbangan,AL 42,Group B,Rehandling Antar Stock Blok Barat,Checker,Ridwan Yunis,Unknown Operator
+2024-09-24,Shift 2,SGJ3,DT 081 SGJ,Exca 001 SGJ,23.43,13:38:53.193,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group B,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 2,SGJ3,DT 082 SGJ,Exca 006 SGJ,23.76,10:30:35.592,TLS 2,RF 10,18000,Timbangan,AL 42,Group B,Rehandling Antar Stock Blok Barat,Checker,Ridwan Yunis,Unknown Operator
+2024-09-24,Shift 2,SGJ3,DT 082 SGJ,Exca 001 SGJ,25.02,11:44:08.950,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group B,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 2,SGJ3,DT 083 SGJ,Exca 007 SGJ,24.3,08:53:28.843,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SGJ3,DT 083 SGJ,Exca 007 SGJ,23.44,09:29:41.354,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SGJ3,DT 083 SGJ,Exca 007 SGJ,20.8,10:37:29.439,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SGJ3,DT 083 SGJ,Exca 007 SGJ,22.7,11:12:19.701,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SGJ3,DT 083 SGJ,Exca 007 SGJ,24.42,11:45:09.210,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SGJ3,DT 083 SGJ,Exca 007 SGJ,24.18,11:57:41.671,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SGJ3,DT 084 SGJ,Exca 007 SGJ,23.14,10:37:03.117,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SGJ3,DT 084 SGJ,Exca 007 SGJ,19.96,13:38:11.321,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SGJ3,DT 085 SGJ,Exca 001 SGJ,25.16,10:16:42.013,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group B,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 2,SGJ3,DT 085 SGJ,Exca 001 SGJ,23.5,11:18:45.177,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group B,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 2,SGJ3,DT 087 SGJ,Exca 001 SGJ,24.78,10:22:14.677,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group B,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 2,SGJ3,DT 087 SGJ,Exca 001 SGJ,22.2,11:10:49.612,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group B,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 2,SGJ3,DT 087 SGJ,Exca 006 SGJ,23.1,11:53:12.714,TLS 2,RF 10,18000,Timbangan,AL 42,Group B,Rehandling Antar Stock Blok Barat,Checker,Ridwan Yunis,Unknown Operator
+2024-09-24,Shift 2,SPARE,DT 028 SGJ,Exca 004 SGJ,23.75,10:53:01.418,TS CCP,RF 10,4300,Timbangan,MT 47,Group B,Rehandling Blok Barat,Checker,Ridwan Yunis,Unknown Operator
+2024-09-24,Shift 2,SPARE,DT 028 SGJ,Exca 004 SGJ,23.85,11:27:15.658,TS CCP,RF 10,4300,Timbangan,MT 47,Group B,Rehandling Blok Barat,Checker,Ridwan Yunis,Unknown Operator
+2024-09-24,Shift 2,SPARE,DT 059 SGJ,Exca 005 PIM,24.36,07:59:00.000,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,Hasan Tarami,Unknown Operator
+2024-09-24,Shift 2,SPARE,DT 059 SGJ,Exca 005 PIM,23,08:24:00.053,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SPARE,DT 059 SGJ,Exca 007 SGJ,24.08,08:53:40.135,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SPARE,DT 059 SGJ,Exca 007 SGJ,24.24,09:53:59.539,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SPARE,DT 059 SGJ,Exca 007 SGJ,20.48,13:12:06.612,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SPARE,DT 059 SGJ,Exca 007 SGJ,21.02,13:26:36.591,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SPARE,DT 059 SGJ,Exca 007 SGJ,23.54,13:56:09.426,LS DH 4,DH 4,800,Timbangan,BB 51,Group B,Rehandling Antar Stock Blok Timur,Checker,M. Iqbal Wijayanto,Unknown Operator
+2024-09-24,Shift 2,SPARE,DT 089 SGJ,Exca 001 SGJ,24.74,11:11:33.949,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group B,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 2,SPARE,DT 089 SGJ,Exca 006 SGJ,21.51,13:47:36.751,TLS 2,RF 10,18000,Timbangan,AL 42,Group B,Rehandling Antar Stock Blok Barat,Checker,Ridwan Yunis,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-31 PAB,Exca 3010-20 PAB,29.5,16:22:57.682,TS CCP,LS Lavender,15000,Bypass,MT 49,Group C,FOB MV,Checker,Denies Sandha,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-31 PAB,Exca 3010-20 PAB,29.5,21:47:10.449,TS CCP,LS Lavender,15000,Bypass,MT 49,Group C,FOB MV,Checker,Ar-Rofi Aryan,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-32 PAB,Exca 3010-20 PAB,29.5,21:48:10.194,TS CCP,LS Lavender,15000,Bypass,MT 49,Group C,FOB MV,Checker,Ar-Rofi Aryan,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-33 PAB,Exca 3010-20 PAB,29.5,21:08:50.059,TS CCP,LS Lavender,15000,Bypass,MT 49,Group C,FOB MV,Checker,Ar-Rofi Aryan,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-34 PAB,Exca 3010-20 PAB,29.5,21:54:16.525,TS CCP,LS Lavender,15000,Bypass,MT 49,Group C,FOB MV,Checker,Ar-Rofi Aryan,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-35 PAB,Exca 3010-20 PAB,29.5,21:48:21.064,TS CCP,LS Lavender,15000,Bypass,MT 49,Group C,FOB MV,Checker,Ar-Rofi Aryan,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-37 PAB,Exca 3010-20 PAB,29.5,21:25:08.244,TS CCP,LS Lavender,15000,Bypass,MT 49,Group C,FOB MV,Checker,Ar-Rofi Aryan,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-38 PAB,Exca 006 PIM,27.582923,14:14:00.000,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Yusuf Tarami,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-38 PAB,Exca 006 PIM,27.582923,14:44:00.000,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Yusuf Tarami,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-38 PAB,Exca 006 PIM,27.582923,15:38:00.000,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Yusuf Tarami,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-38 PAB,Exca 006 PIM,27.582923,16:13:00.000,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Yusuf Tarami,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-38 PAB,Exca 006 PIM,27.582923,16:47:00.000,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Yusuf Tarami,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-38 PAB,Exca 006 PIM,27.582923,19:04:36.947,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Beta Putra,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-38 PAB,Exca 006 PIM,27.582923,20:09:06.569,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Beta Putra,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-38 PAB,Exca 006 PIM,27.582923,20:35:26.393,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Beta Putra,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-38 PAB,Exca 006 PIM,27.582923,21:06:18.476,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Beta Putra,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-39 PAB,Exca 006 PIM,27.582923,14:24:00.000,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Yusuf Tarami,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-39 PAB,Exca 006 PIM,27.582923,14:50:00.000,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Yusuf Tarami,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-39 PAB,Exca 006 PIM,27.582923,15:22:00.000,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Yusuf Tarami,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-39 PAB,Exca 006 PIM,27.582923,16:02:00.000,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Yusuf Tarami,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-39 PAB,Exca 006 PIM,27.582923,16:44:00.000,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Yusuf Tarami,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-39 PAB,Exca 006 PIM,27.582923,19:29:30.443,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Beta Putra,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-39 PAB,Exca 006 PIM,27.582923,20:12:54.079,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Beta Putra,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-39 PAB,Exca 006 PIM,27.582923,20:48:54.245,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Beta Putra,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-39 PAB,Exca 006 PIM,27.582923,21:16:52.382,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Beta Putra,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-39 PAB,Exca 006 PIM,27.582923,21:55:15.501,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Beta Putra,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-40 PAB,Exca 006 PIM,27.582923,14:15:00.000,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Yusuf Tarami,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-40 PAB,Exca 006 PIM,27.582923,15:20:00.000,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Yusuf Tarami,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-40 PAB,Exca 006 PIM,27.582923,15:56:00.000,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Yusuf Tarami,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-40 PAB,Exca 006 PIM,27.582923,16:39:00.000,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Yusuf Tarami,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-40 PAB,Exca 006 PIM,27.582923,19:28:22.580,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Beta Putra,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-40 PAB,Exca 006 PIM,27.582923,20:10:15.221,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Beta Putra,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-40 PAB,Exca 006 PIM,27.582923,20:46:53.020,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Beta Putra,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-40 PAB,Exca 006 PIM,27.582923,21:14:55.161,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Beta Putra,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-40 PAB,Exca 006 PIM,27.582923,21:44:23.941,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Beta Putra,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-41 PAB,Exca 006 PIM,27.582923,14:27:00.000,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Yusuf Tarami,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-41 PAB,Exca 006 PIM,27.582923,14:53:00.000,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Yusuf Tarami,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-41 PAB,Exca 006 PIM,27.582923,15:22:00.000,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Yusuf Tarami,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-41 PAB,Exca 006 PIM,27.582923,15:47:00.000,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Yusuf Tarami,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-41 PAB,Exca 006 PIM,27.582923,16:24:00.000,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Yusuf Tarami,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-41 PAB,Exca 006 PIM,27.582923,16:48:00.000,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Yusuf Tarami,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-41 PAB,Exca 006 PIM,27.582923,19:08:40.521,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Beta Putra,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-41 PAB,Exca 006 PIM,27.582923,19:53:31.666,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Beta Putra,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-41 PAB,Exca 006 PIM,27.582923,20:30:24.344,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Beta Putra,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-41 PAB,Exca 006 PIM,27.582923,21:21:32.810,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Beta Putra,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-42 PAB,Exca 006 PIM,27.582923,19:55:00.000,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Ridzky Adjanka,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-42 PAB,Exca 006 PIM,27.582923,20:31:59.377,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Beta Putra,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-42 PAB,Exca 006 PIM,27.582923,20:57:09.433,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Beta Putra,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-42 PAB,Exca 006 PIM,27.582923,21:28:41.554,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Beta Putra,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-42 PAB,Exca 006 PIM,27.582923,21:53:47.649,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Beta Putra,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-43 PAB,Exca 005 PIM,29.5,14:25:19.753,LS DH 4,LS 4,3500,Bypass,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Awang Dayal,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-43 PAB,Exca 005 PIM,29.5,14:50:54.472,LS DH 4,LS 4,3500,Bypass,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Awang Dayal,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-43 PAB,Exca 005 PIM,29.5,15:35:50.711,LS DH 4,LS 4,3500,Bypass,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Awang Dayal,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-43 PAB,Exca 005 PIM,29.5,15:53:54.585,LS DH 4,LS 4,3500,Bypass,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Awang Dayal,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-43 PAB,Exca 005 PIM,29.5,16:26:07.008,LS DH 4,LS 4,3500,Bypass,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Awang Dayal,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-43 PAB,Exca 005 PIM,29.5,16:47:57.964,LS DH 4,LS 4,3500,Bypass,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Awang Dayal,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-45 PAB,Exca 3010-20 PAB,29.5,16:41:14.605,TS CCP,LS Lavender,15000,Bypass,MT 49,Group C,FOB MV,Checker,Denies Sandha,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-45 PAB,Exca 3010-20 PAB,29.5,21:27:37.648,TS CCP,LS Lavender,15000,Bypass,MT 49,Group C,FOB MV,Checker,Ar-Rofi Aryan,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-46 PAB,Exca 3010-20 PAB,29.5,15:53:44.912,TS CCP,LS Lavender,15000,Bypass,MT 49,Group C,FOB MV,Checker,Denies Sandha,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-46 PAB,Exca 3010-20 PAB,29.5,21:09:37.385,TS CCP,LS Lavender,15000,Bypass,MT 49,Group C,FOB MV,Checker,Ar-Rofi Aryan,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-47PAB,Exca 006 PIM,27.582923,14:00:00.000,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Yusuf Tarami,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-47PAB,Exca 006 PIM,27.582923,14:37:00.000,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Yusuf Tarami,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-47PAB,Exca 006 PIM,27.582923,15:24:00.000,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Yusuf Tarami,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-47PAB,Exca 006 PIM,27.582923,16:04:00.000,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Yusuf Tarami,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-47PAB,Exca 006 PIM,27.582923,16:47:00.000,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Yusuf Tarami,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-48 PAB,Exca 005 PIM,29.5,14:13:50.831,LS DH 4,LS 4,3500,Bypass,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Awang Dayal,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-48 PAB,Exca 005 PIM,29.5,14:33:51.906,LS DH 4,LS 4,3500,Bypass,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Awang Dayal,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-48 PAB,Exca 005 PIM,29.5,15:01:16.969,LS DH 4,LS 4,3500,Bypass,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Awang Dayal,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-48 PAB,Exca 005 PIM,29.5,15:35:58.032,LS DH 4,LS 4,3500,Bypass,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Awang Dayal,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-48 PAB,Exca 005 PIM,29.5,16:01:18.105,LS DH 4,LS 4,3500,Bypass,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Awang Dayal,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-48 PAB,Exca 005 PIM,29.5,16:30:04.331,LS DH 4,LS 4,3500,Bypass,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Awang Dayal,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-50 PAB,Exca 3010-20 PAB,29.5,21:25:29.022,TS CCP,LS Lavender,15000,Bypass,MT 49,Group C,FOB MV,Checker,Ar-Rofi Aryan,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-51 PAB,Exca 3010-20 PAB,29.5,16:35:38.148,TS CCP,LS Lavender,15000,Bypass,MT 49,Group C,FOB MV,Checker,Denies Sandha,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-51 PAB,Exca 3010-20 PAB,29.5,21:36:18.041,TS CCP,LS Lavender,15000,Bypass,MT 49,Group C,FOB MV,Checker,Ar-Rofi Aryan,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-52 PAB,Exca 3010-19 PAB,29.5,20:02:59.034,TS CCP,LS Lavender,15000,Bypass,MT 49,Group C,FOB MV,Checker,Ar-Rofi Aryan,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-52 PAB,Exca 3010-19 PAB,29.5,21:18:07.347,TS CCP,LS Lavender,15000,Bypass,MT 49,Group C,FOB MV,Checker,Ar-Rofi Aryan,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-53 PAB,Exca 006 PIM,27.582923,14:07:00.000,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Yusuf Tarami,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-53 PAB,Exca 006 PIM,27.582923,14:49:00.000,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Yusuf Tarami,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-53 PAB,Exca 006 PIM,27.582923,15:20:00.000,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Yusuf Tarami,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-53 PAB,Exca 006 PIM,27.582923,15:57:00.000,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Yusuf Tarami,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-53 PAB,Exca 006 PIM,27.582923,16:43:00.000,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Yusuf Tarami,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-53 PAB,Exca 006 PIM,27.582923,19:51:32.704,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Beta Putra,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-53 PAB,Exca 006 PIM,27.582923,20:20:46.526,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Beta Putra,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-53 PAB,Exca 006 PIM,27.582923,20:56:44.292,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Beta Putra,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-53 PAB,Exca 006 PIM,27.582923,21:30:00.098,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Beta Putra,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-54 PAB,Exca 005 PIM,29.5,14:13:23.269,LS DH 4,LS 4,3500,Bypass,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Awang Dayal,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-54 PAB,Exca 005 PIM,29.5,14:36:49.140,LS DH 4,LS 4,3500,Bypass,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Awang Dayal,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-54 PAB,Exca 005 PIM,29.5,15:09:40.406,LS DH 4,LS 4,3500,Bypass,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Awang Dayal,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-54 PAB,Exca 005 PIM,29.5,15:48:32.985,LS DH 4,LS 4,3500,Bypass,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Awang Dayal,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-54 PAB,Exca 005 PIM,29.5,16:01:26.471,LS DH 4,LS 4,3500,Bypass,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Awang Dayal,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-54 PAB,Exca 005 PIM,29.5,16:35:26.280,LS DH 4,LS 4,3500,Bypass,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Awang Dayal,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-55 PAB,Exca 005 PIM,29.5,14:21:13.125,LS DH 4,LS 4,3500,Bypass,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Awang Dayal,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-55 PAB,Exca 005 PIM,29.5,14:51:00.147,LS DH 4,LS 4,3500,Bypass,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Awang Dayal,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-55 PAB,Exca 005 PIM,29.5,15:21:48.789,LS DH 4,LS 4,3500,Bypass,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Awang Dayal,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-55 PAB,Exca 005 PIM,29.5,15:45:11.959,LS DH 4,LS 4,3500,Bypass,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Awang Dayal,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-55 PAB,Exca 005 PIM,29.5,16:13:10.175,LS DH 4,LS 4,3500,Bypass,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Awang Dayal,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-56 PAB,Exca 3010-19 PAB,29.5,20:07:08.819,TS CCP,LS Lavender,15000,Bypass,MT 49,Group C,FOB MV,Checker,Ar-Rofi Aryan,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-57 PAB,Exca 3010-19 PAB,29.5,20:20:06.595,TS CCP,LS Lavender,15000,Bypass,MT 49,Group C,FOB MV,Checker,Ar-Rofi Aryan,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-57 PAB,Exca 3010-19 PAB,29.5,21:55:03.325,TS CCP,LS Lavender,15000,Bypass,MT 49,Group C,FOB MV,Checker,Ar-Rofi Aryan,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-58 PAB,Exca 3010-19 PAB,29.5,20:06:46.647,TS CCP,LS Lavender,15000,Bypass,MT 49,Group C,FOB MV,Checker,Ar-Rofi Aryan,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-58 PAB,Exca 3010-19 PAB,29.5,21:50:33.516,TS CCP,LS Lavender,15000,Bypass,MT 49,Group C,FOB MV,Checker,Ar-Rofi Aryan,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-59 PAB,Exca 3010-19 PAB,29.5,20:19:55.716,TS CCP,LS Lavender,15000,Bypass,MT 49,Group C,FOB MV,Checker,Ar-Rofi Aryan,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-59 PAB,Exca 3010-19 PAB,29.5,21:22:34.363,TS CCP,LS Lavender,15000,Bypass,MT 49,Group C,FOB MV,Checker,Ar-Rofi Aryan,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-60 PAB,Exca 3010-19 PAB,29.5,20:06:55.147,TS CCP,LS Lavender,15000,Bypass,MT 49,Group C,FOB MV,Checker,Ar-Rofi Aryan,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-60 PAB,Exca 3010-19 PAB,29.5,21:48:52.414,TS CCP,LS Lavender,15000,Bypass,MT 49,Group C,FOB MV,Checker,Ar-Rofi Aryan,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-61 PAB,Exca 006 PIM,27.582923,14:06:00.000,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Yusuf Tarami,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-61 PAB,Exca 006 PIM,27.582923,14:43:00.000,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Yusuf Tarami,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-61 PAB,Exca 006 PIM,27.582923,15:55:00.000,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Yusuf Tarami,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-61 PAB,Exca 006 PIM,27.582923,16:37:00.000,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Yusuf Tarami,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-62 PAB,Exca 3010-19 PAB,29.5,15:56:13.543,TS CCP,LS Lavender,15000,Bypass,MT 49,Group C,FOB MV,Checker,Denies Sandha,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-62 PAB,Exca 3010-19 PAB,29.5,18:58:56.569,TS CCP,LS Lavender,15000,Bypass,MT 49,Group C,FOB MV,Checker,Ar-Rofi Aryan,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-62 PAB,Exca 3010-19 PAB,29.5,21:10:36.795,TS CCP,LS Lavender,15000,Bypass,MT 49,Group C,FOB MV,Checker,Ar-Rofi Aryan,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-63 PAB,Exca 3010-19 PAB,29.5,20:06:34.567,TS CCP,LS Lavender,15000,Bypass,MT 49,Group C,FOB MV,Checker,Ar-Rofi Aryan,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-63 PAB,Exca 3010-19 PAB,29.5,21:55:23.445,TS CCP,LS Lavender,15000,Bypass,MT 49,Group C,FOB MV,Checker,Ar-Rofi Aryan,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-64 PAB,Exca 005 PIM,29.5,14:13:25.790,LS DH 4,LS 4,3500,Bypass,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Awang Dayal,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-64 PAB,Exca 005 PIM,29.5,14:43:58.934,LS DH 4,LS 4,3500,Bypass,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Awang Dayal,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-64 PAB,Exca 005 PIM,29.5,15:09:45.631,LS DH 4,LS 4,3500,Bypass,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Awang Dayal,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-64 PAB,Exca 005 PIM,29.5,15:48:42.153,LS DH 4,LS 4,3500,Bypass,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Awang Dayal,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-64 PAB,Exca 005 PIM,29.5,16:04:21.303,LS DH 4,LS 4,3500,Bypass,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Awang Dayal,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-64 PAB,Exca 006 PIM,27.582923,19:30:25.172,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Beta Putra,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-64 PAB,Exca 006 PIM,27.582923,20:41:38.863,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Beta Putra,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-64 PAB,Exca 006 PIM,27.582923,21:11:41.637,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Beta Putra,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-64 PAB,Exca 006 PIM,27.582923,21:44:12.986,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Beta Putra,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-66 PAB,Exca 005 PIM,29.5,14:30:15.387,LS DH 4,LS 4,3500,Bypass,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Awang Dayal,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-66 PAB,Exca 005 PIM,29.5,14:55:28.183,LS DH 4,LS 4,3500,Bypass,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Awang Dayal,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-66 PAB,Exca 005 PIM,29.5,15:23:26.769,LS DH 4,LS 4,3500,Bypass,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Awang Dayal,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-66 PAB,Exca 005 PIM,29.5,15:49:05.389,LS DH 4,LS 4,3500,Bypass,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Awang Dayal,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-66 PAB,Exca 005 PIM,29.5,16:20:32.934,LS DH 4,LS 4,3500,Bypass,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Awang Dayal,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 3010-66 PAB,Exca 005 PIM,29.5,16:43:13.800,LS DH 4,LS 4,3500,Bypass,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Awang Dayal,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 4010-01 PAB,Exca 3010-16 PAB,34.48,16:30:32.134,TS CCP,LS Lavender,15000,Bypass,MT 49,Group C,FOB MV,Checker,Denies Sandha,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 4010-01 PAB,Exca 3010-16 PAB,34.48,21:12:36.477,TS CCP,LS Lavender,15000,Bypass,MT 49,Group C,FOB MV,Checker,Ar-Rofi Aryan,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 4010-03 PAB,Exca 3010-16 PAB,34.48,21:52:01.267,TS CCP,LS Lavender,15000,Bypass,MT 49,Group C,FOB MV,Checker,Ar-Rofi Aryan,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 4010-04 PAB,Exca 3010-16 PAB,34.48,15:56:41.950,TS CCP,LS Lavender,15000,Bypass,MT 49,Group C,FOB MV,Checker,Denies Sandha,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 4010-04 PAB,Exca 3010-16 PAB,34.48,21:25:57.593,TS CCP,LS Lavender,15000,Bypass,MT 49,Group C,FOB MV,Checker,Ar-Rofi Aryan,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 4010-05 PAB,Exca 3010-16 PAB,34.48,21:15:27.229,TS CCP,LS Lavender,15000,Bypass,MT 49,Group C,FOB MV,Checker,Ar-Rofi Aryan,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 4010-06 PAB,Exca 3010-16 PAB,34.48,21:49:39.445,TS CCP,LS Lavender,15000,Bypass,MT 49,Group C,FOB MV,Checker,Ar-Rofi Aryan,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 4010-07 PAB,Exca 3010-16 PAB,34.48,16:41:33.917,TS CCP,LS Lavender,15000,Bypass,MT 49,Group C,FOB MV,Checker,Denies Sandha,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 4010-08 PAB,Exca 3010-16 PAB,34.48,21:26:16.146,TS CCP,LS Lavender,15000,Bypass,MT 49,Group C,FOB MV,Checker,Ar-Rofi Aryan,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 4010-09 PAB,Exca 3010-16 PAB,34.48,16:30:40.259,TS CCP,LS Lavender,15000,Bypass,MT 49,Group C,FOB MV,Checker,Denies Sandha,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 4010-09 PAB,Exca 3010-16 PAB,34.48,21:09:55.184,TS CCP,LS Lavender,15000,Bypass,MT 49,Group C,FOB MV,Checker,Ar-Rofi Aryan,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 4010-10 PAB,Exca 3010-16 PAB,34.48,16:41:38.743,TS CCP,LS Lavender,15000,Bypass,MT 49,Group C,FOB MV,Checker,Denies Sandha,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 4010-10 PAB,Exca 3010-16 PAB,34.48,20:56:48.127,TS CCP,LS Lavender,15000,Bypass,MT 49,Group C,FOB MV,Checker,Ar-Rofi Aryan,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 4010-11 PAB,Exca 3010-16 PAB,34.48,16:41:28.264,TS CCP,LS Lavender,15000,Bypass,MT 49,Group C,FOB MV,Checker,Denies Sandha,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 4010-11 PAB,Exca 3010-16 PAB,34.48,21:10:05.811,TS CCP,LS Lavender,15000,Bypass,MT 49,Group C,FOB MV,Checker,Ar-Rofi Aryan,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 4010-12 PAB,Exca 3010-16 PAB,34.48,21:35:48.942,TS CCP,LS Lavender,15000,Bypass,MT 49,Group C,FOB MV,Checker,Ar-Rofi Aryan,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 4010-13 PAB,Exca 3010-16 PAB,34.48,21:49:29.724,TS CCP,LS Lavender,15000,Bypass,MT 49,Group C,FOB MV,Checker,Ar-Rofi Aryan,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 4010-14 PAB,Exca 3010-16 PAB,34.48,21:47:36.538,TS CCP,LS Lavender,15000,Bypass,MT 49,Group C,FOB MV,Checker,Ar-Rofi Aryan,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 4010-15 PAB,Exca 3010-17 PAB,34.48,16:23:33.145,TS CCP,LS Lavender,15000,Bypass,MT 49,Group C,FOB MV,Checker,Denies Sandha,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 4010-15 PAB,Exca 3010-17 PAB,34.48,21:49:17.151,TS CCP,LS Lavender,15000,Bypass,MT 49,Group C,FOB MV,Checker,Ar-Rofi Aryan,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 4010-16 PAB,Exca 3010-17 PAB,34.48,16:29:59.488,TS CCP,LS Lavender,15000,Bypass,MT 49,Group C,FOB MV,Checker,Denies Sandha,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 4010-16 PAB,Exca 3010-17 PAB,34.48,21:49:07.819,TS CCP,LS Lavender,15000,Bypass,MT 49,Group C,FOB MV,Checker,Ar-Rofi Aryan,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 4010-17 PAB,Exca 3010-17 PAB,34.48,21:12:21.576,TS CCP,LS Lavender,15000,Bypass,MT 49,Group C,FOB MV,Checker,Ar-Rofi Aryan,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 4010-18 PAB,Exca 3010-17 PAB,34.48,16:30:14.573,TS CCP,LS Lavender,15000,Bypass,MT 49,Group C,FOB MV,Checker,Denies Sandha,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 4010-18 PAB,Exca 3010-17 PAB,34.48,21:56:01.814,TS CCP,LS Lavender,15000,Bypass,MT 49,Group C,FOB MV,Checker,Ar-Rofi Aryan,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 4010-20 PAB,Exca 3010-17 PAB,34.48,21:12:59.779,TS CCP,LS Lavender,15000,Bypass,MT 49,Group C,FOB MV,Checker,Ar-Rofi Aryan,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 4010-21 PAB,Exca 3010-17 PAB,34.48,21:25:43.905,TS CCP,LS Lavender,15000,Bypass,MT 49,Group C,FOB MV,Checker,Ar-Rofi Aryan,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 4010-22 PAB,Exca 3010-17 PAB,34.48,16:14:25.833,TS CCP,LS Lavender,15000,Bypass,MT 49,Group C,FOB MV,Checker,Denies Sandha,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 4010-22 PAB,Exca 3010-17 PAB,34.48,21:10:56.662,TS CCP,LS Lavender,15000,Bypass,MT 49,Group C,FOB MV,Checker,Ar-Rofi Aryan,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 4010-23 PAB,Exca 3010-17 PAB,34.48,21:17:54.314,TS CCP,LS Lavender,15000,Bypass,MT 49,Group C,FOB MV,Checker,Ar-Rofi Aryan,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 4010-26 PAB,Exca 3010-17 PAB,34.48,21:34:06.036,TS CCP,LS Lavender,15000,Bypass,MT 49,Group C,FOB MV,Checker,Ar-Rofi Aryan,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 4010-27 PAB,Exca 3010-17 PAB,34.48,21:35:31.082,TS CCP,LS Lavender,15000,Bypass,MT 49,Group C,FOB MV,Checker,Ar-Rofi Aryan,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 4010-28 PAB,Exca 3010-17 PAB,34.48,21:18:24.912,TS CCP,LS Lavender,15000,Bypass,MT 49,Group C,FOB MV,Checker,Ar-Rofi Aryan,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 4010-29 PAB,Exca 3010-19 PAB,34.48,16:23:17.856,TS CCP,LS Lavender,15000,Bypass,MT 49,Group C,FOB MV,Checker,Denies Sandha,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 4010-29 PAB,Exca 3010-19 PAB,34.48,21:09:16.216,TS CCP,LS Lavender,15000,Bypass,MT 49,Group C,FOB MV,Checker,Ar-Rofi Aryan,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 4010-30 PAB,Exca 3010-19 PAB,34.48,20:19:40.579,TS CCP,LS Lavender,15000,Bypass,MT 49,Group C,FOB MV,Checker,Ar-Rofi Aryan,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 4010-30 PAB,Exca 3010-19 PAB,34.48,21:28:04.956,TS CCP,LS Lavender,15000,Bypass,MT 49,Group C,FOB MV,Checker,Ar-Rofi Aryan,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 4010-31 PAB,Exca 3010-19 PAB,34.48,20:19:45.168,TS CCP,LS Lavender,15000,Bypass,MT 49,Group C,FOB MV,Checker,Ar-Rofi Aryan,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 4010-31 PAB,Exca 3010-19 PAB,34.48,21:28:23.030,TS CCP,LS Lavender,15000,Bypass,MT 49,Group C,FOB MV,Checker,Ar-Rofi Aryan,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 4010-32 PAB,Exca 3010-19 PAB,34.48,17:06:14.435,TS CCP,LS Lavender,15000,Bypass,MT 49,Group C,FOB MV,Checker,Denies Sandha,Unknown Operator
+2024-09-24,Shift 3,BAK,DT 4010-32 PAB,Exca 3010-19 PAB,34.48,21:09:06.894,TS CCP,LS Lavender,15000,Bypass,MT 49,Group C,FOB MV,Checker,Ar-Rofi Aryan,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 002 RDP,Exca 3021 RDP,29.06,14:23:35.379,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 002 RDP,Exca 3021 RDP,29.06,15:07:55.884,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 002 RDP,Exca 3021 RDP,29.06,15:56:45.362,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 002 RDP,Exca 3021 RDP,29.06,16:49:21.597,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 002 RDP,Exca 3021 RDP,29.06,21:48:54.075,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,Heru W,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 002 RDP,Exca 3021 RDP,29.06,21:55:58.312,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,Heru W,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 003 RDP,Exca 3021 RDP,29.06,21:17:45.211,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,Heru W,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 004 RDP,Exca 3021 RDP,29.06,14:06:21.742,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 004 RDP,Exca 3021 RDP,29.06,14:53:32.781,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 004 RDP,Exca 3021 RDP,29.06,15:56:58.107,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 004 RDP,Exca 3021 RDP,29.06,16:44:00.382,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 004 RDP,Exca 3021 RDP,29.06,21:55:49.701,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,Heru W,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 005 RDP,Exca 3021 RDP,29.06,14:34:24.550,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 005 RDP,Exca 3021 RDP,29.06,15:23:01.395,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 005 RDP,Exca 3021 RDP,29.06,16:05:38.455,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 005 RDP,Exca 3021 RDP,29.06,16:59:18.194,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 005 RDP,Exca 3021 RDP,29.06,21:22:17.732,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,Heru W,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 006 RDP,Exca 3021 RDP,29.06,14:48:26.951,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 006 RDP,Exca 3021 RDP,29.06,15:47:03.922,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 006 RDP,Exca 3021 RDP,29.06,16:45:26.672,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 006 RDP,Exca 3021 RDP,29.06,21:34:51.100,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,Heru W,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 007 RDP,Exca 3019 RDP,27.171525,14:21:34.693,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Jhon Bernard,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 007 RDP,Exca 3019 RDP,27.171525,15:01:28.252,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Jhon Bernard,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 007 RDP,Exca 3019 RDP,27.171525,15:40:56.215,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Jhon Bernard,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 007 RDP,Exca 3019 RDP,27.171525,16:18:22.234,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Jhon Bernard,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 007 RDP,Exca 3019 RDP,27.171525,19:45:06.416,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Denni Prayoga,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 007 RDP,Exca 3019 RDP,27.171525,20:13:57.782,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Denni Prayoga,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 007 RDP,Exca 3019 RDP,27.171525,20:50:25.649,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Denni Prayoga,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 007 RDP,Exca 3019 RDP,27.171525,21:23:35.152,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Denni Prayoga,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 007 RDP,Exca 3019 RDP,27.171525,21:59:41.195,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Denni Prayoga,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 008 RDP,Exca 3019 RDP,27.171525,14:06:06.260,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Jhon Bernard,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 008 RDP,Exca 3019 RDP,27.171525,14:32:50.819,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Jhon Bernard,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 008 RDP,Exca 3019 RDP,27.171525,15:36:22.950,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Jhon Bernard,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 008 RDP,Exca 3019 RDP,27.171525,16:07:47.504,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Jhon Bernard,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 008 RDP,Exca 3019 RDP,27.171525,16:47:49.976,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Jhon Bernard,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 008 RDP,Exca 3019 RDP,27.171525,19:14:34.837,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Denni Prayoga,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 008 RDP,Exca 3019 RDP,27.171525,19:58:49.953,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Denni Prayoga,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 008 RDP,Exca 3019 RDP,27.171525,20:41:09.570,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Denni Prayoga,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 008 RDP,Exca 3019 RDP,27.171525,21:06:55.074,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Denni Prayoga,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 008 RDP,Exca 3019 RDP,27.171525,21:37:37.084,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Denni Prayoga,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 009 RDP,Exca 3019 RDP,27.171525,14:30:12.808,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Jhon Bernard,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 009 RDP,Exca 3019 RDP,27.171525,15:47:53.244,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Jhon Bernard,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 009 RDP,Exca 3019 RDP,27.171525,16:28:51.320,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Jhon Bernard,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 009 RDP,Exca 3019 RDP,27.171525,17:10:27.343,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Jhon Bernard,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 009 RDP,Exca 3019 RDP,27.171525,20:05:50.874,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Denni Prayoga,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 009 RDP,Exca 3019 RDP,27.171525,20:46:40.119,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Denni Prayoga,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 009 RDP,Exca 3019 RDP,27.171525,21:13:42.002,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Denni Prayoga,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 009 RDP,Exca 3019 RDP,27.171525,21:49:26.187,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Denni Prayoga,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 010 RDP,Exca 3019 RDP,27.171525,14:12:38.422,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Jhon Bernard,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 010 RDP,Exca 3019 RDP,27.171525,14:56:49.740,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Jhon Bernard,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 010 RDP,Exca 3019 RDP,27.171525,15:28:35.125,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Jhon Bernard,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 010 RDP,Exca 3019 RDP,27.171525,16:09:50.411,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Jhon Bernard,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 010 RDP,Exca 3019 RDP,27.171525,17:10:38.112,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Jhon Bernard,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 010 RDP,Exca 3019 RDP,27.171525,19:51:06.809,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Denni Prayoga,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 010 RDP,Exca 3019 RDP,27.171525,20:33:30.717,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Denni Prayoga,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 010 RDP,Exca 3019 RDP,27.171525,20:56:53.925,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Denni Prayoga,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 010 RDP,Exca 3019 RDP,27.171525,21:33:25.041,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Denni Prayoga,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 011 RDP,Exca 3019 RDP,27.171525,14:21:28.537,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Jhon Bernard,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 011 RDP,Exca 3019 RDP,27.171525,15:06:22.178,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Jhon Bernard,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 011 RDP,Exca 3019 RDP,27.171525,15:37:09.927,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Jhon Bernard,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 011 RDP,Exca 3019 RDP,27.171525,16:02:08.470,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Jhon Bernard,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 011 RDP,Exca 3019 RDP,27.171525,16:53:30.935,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Jhon Bernard,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 011 RDP,Exca 3019 RDP,27.171525,19:46:38.637,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Denni Prayoga,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 011 RDP,Exca 3019 RDP,27.171525,20:16:07.238,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Denni Prayoga,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 011 RDP,Exca 3019 RDP,27.171525,20:52:57.696,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Denni Prayoga,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 011 RDP,Exca 3019 RDP,27.171525,21:28:24.740,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Denni Prayoga,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 012 RDP,Exca 3019 RDP,27.171525,14:54:31.923,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Jhon Bernard,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 012 RDP,Exca 3019 RDP,27.171525,15:45:05.744,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Jhon Bernard,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 012 RDP,Exca 3019 RDP,27.171525,16:16:11.742,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Jhon Bernard,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 012 RDP,Exca 3019 RDP,27.171525,17:10:20.706,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Jhon Bernard,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 012 RDP,Exca 3019 RDP,27.171525,19:09:27.600,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Denni Prayoga,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 012 RDP,Exca 3019 RDP,27.171525,19:56:52.765,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Denni Prayoga,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 012 RDP,Exca 3019 RDP,27.171525,20:37:10.148,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Denni Prayoga,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 012 RDP,Exca 3019 RDP,27.171525,21:02:01.161,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Denni Prayoga,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 012 RDP,Exca 3019 RDP,27.171525,21:37:26.105,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Denni Prayoga,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 013 RDP,Exca 3019 RDP,27.171525,14:07:01.947,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Jhon Bernard,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 013 RDP,Exca 3019 RDP,27.171525,14:44:56.832,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Jhon Bernard,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 013 RDP,Exca 3019 RDP,27.171525,15:17:31.955,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Jhon Bernard,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 013 RDP,Exca 3019 RDP,27.171525,15:57:45.393,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Jhon Bernard,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 013 RDP,Exca 3019 RDP,27.171525,16:35:57.245,TS Merbau,DH 5,3500,Beltscale,BTB 47,Group C,Rehandling Blok Timur,Checker,Jhon Bernard,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 013 RDP,Exca 3021 RDP,29.06,20:54:07.935,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,Heru W,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 013 RDP,Exca 3021 RDP,29.06,21:56:11.480,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,Heru W,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 014 RDP,Exca 3020 RDP,29.06,14:48:18.723,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 014 RDP,Exca 3020 RDP,29.06,15:38:41.482,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 014 RDP,Exca 3020 RDP,29.06,16:45:33.766,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 014 RDP,Exca 3020 RDP,29.06,21:16:44.911,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,Heru W,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 015 RDP,Exca 3020 RDP,29.06,14:36:13.455,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 015 RDP,Exca 3020 RDP,29.06,15:20:28.189,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 015 RDP,Exca 3020 RDP,29.06,16:03:26.946,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 015 RDP,Exca 3020 RDP,29.06,16:55:38.358,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 015 RDP,Exca 3020 RDP,29.06,21:25:21.505,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,Heru W,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 016 RDP,Exca 3020 RDP,29.06,14:12:36.137,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 016 RDP,Exca 3020 RDP,29.06,14:55:31.163,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 016 RDP,Exca 3020 RDP,29.06,15:42:15.297,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 016 RDP,Exca 3020 RDP,29.06,16:46:07.866,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 016 RDP,Exca 3020 RDP,29.06,21:20:18.034,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,Heru W,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 017 RDP,Exca 3020 RDP,29.06,21:57:10.046,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,Heru W,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 018 RDP,Exca 3020 RDP,29.06,14:08:08.093,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 018 RDP,Exca 3020 RDP,29.06,15:14:27.412,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 018 RDP,Exca 3020 RDP,29.06,15:58:19.603,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 018 RDP,Exca 3020 RDP,29.06,16:51:24.154,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 018 RDP,Exca 3020 RDP,29.06,21:13:30.683,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,Heru W,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 019 RDP,Exca 3020 RDP,29.06,14:27:19.686,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 019 RDP,Exca 3020 RDP,29.06,15:10:30.580,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 019 RDP,Exca 3020 RDP,29.06,15:56:18.517,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 019 RDP,Exca 3020 RDP,29.06,16:50:28.996,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 019 RDP,Exca 3020 RDP,29.06,21:25:55.622,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,Heru W,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 020 RDP,Exca 3020 RDP,29.06,14:51:44.111,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 020 RDP,Exca 3020 RDP,29.06,15:44:08.111,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 020 RDP,Exca 3020 RDP,29.06,16:56:36.242,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 020 RDP,Exca 3020 RDP,29.06,21:10:00.880,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,Heru W,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 020 RDP,Exca 3020 RDP,29.06,21:58:35.642,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,Heru W,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 021 RDP,Exca 3020 RDP,29.06,14:48:05.844,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 021 RDP,Exca 3020 RDP,29.06,15:33:15.151,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 021 RDP,Exca 3020 RDP,29.06,16:17:05.339,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 021 RDP,Exca 3020 RDP,29.06,17:00:02.155,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 021 RDP,Exca 3020 RDP,29.06,21:26:31.609,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,Heru W,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 022 RDP,Exca 3020 RDP,29.06,14:06:14.894,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 022 RDP,Exca 3020 RDP,29.06,14:51:49.368,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 022 RDP,Exca 3020 RDP,29.06,15:35:32.224,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 022 RDP,Exca 3020 RDP,29.06,16:45:37.364,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 022 RDP,Exca 3020 RDP,29.06,21:22:44.785,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,Heru W,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 023 RDP,Exca 3020 RDP,29.06,14:08:10.503,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 023 RDP,Exca 3020 RDP,29.06,15:14:30.450,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 023 RDP,Exca 3020 RDP,29.06,15:58:26.943,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 023 RDP,Exca 3020 RDP,29.06,16:53:29.486,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 023 RDP,Exca 3020 RDP,29.06,21:56:46.384,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,Heru W,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 024 RDP,Exca 3021 RDP,29.06,14:15:45.988,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 024 RDP,Exca 3021 RDP,29.06,14:57:42.649,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 024 RDP,Exca 3021 RDP,29.06,15:42:41.944,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 024 RDP,Exca 3021 RDP,29.06,16:45:48.226,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 024 RDP,Exca 3021 RDP,29.06,21:44:45.223,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,Heru W,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 025 RDP,Exca 3021 RDP,29.06,15:03:16.086,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 025 RDP,Exca 3021 RDP,29.06,15:50:18.779,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 025 RDP,Exca 3021 RDP,29.06,16:45:45.724,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 025 RDP,Exca 3021 RDP,29.06,21:44:50.912,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,Heru W,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 026 RDP,Exca 3021 RDP,29.06,21:55:34.269,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,Heru W,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 027 RDP,Exca 3021 RDP,29.06,14:41:32.396,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 027 RDP,Exca 3021 RDP,29.06,15:34:22.504,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 027 RDP,Exca 3021 RDP,29.06,16:33:20.030,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,M Reggi P,Unknown Operator
+2024-09-24,Shift 3,RDP,DT 027 RDP,Exca 3021 RDP,29.06,21:45:32.107,TS Mahoni,LS 4,10000,Bypass,BTB 53,Group C,Rehandling Blok Timur,Checker,Heru W,Unknown Operator
+2024-09-24,Shift 3,SGJ1,DT 001 SGJ,Exca 001 SGJ,23.36,14:24:59.326,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 3,SGJ1,DT 001 SGJ,Exca 006 SGJ,22.32,14:51:05.243,TLS 2,RF 10,18000,Timbangan,AL 42,Group C,Rehandling Antar Stock Blok Barat,Checker,Ridwan Yunis,Unknown Operator
+2024-09-24,Shift 3,SGJ1,DT 001 SGJ,Exca 001 SGJ,22.64,15:56:40.089,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 3,SGJ1,DT 001 SGJ,Exca 001 SGJ,22.08,16:36:32.504,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 3,SGJ1,DT 001 SGJ,Exca 001 SGJ,24.08,20:15:41.328,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Elvis,Unknown Operator
+2024-09-24,Shift 3,SGJ1,DT 001 SGJ,Exca 001 SGJ,22.72,20:50:01.914,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Elvis,Unknown Operator
+2024-09-24,Shift 3,SGJ1,DT 002 SGJ,Exca 001 SGJ,23.84,14:23:42.145,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 3,SGJ1,DT 002 SGJ,Exca 001 SGJ,25.82,14:48:26.297,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 3,SGJ1,DT 002 SGJ,Exca 001 SGJ,25.34,16:05:40.518,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 3,SGJ1,DT 002 SGJ,Exca 001 SGJ,23.98,16:44:29.332,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 3,SGJ1,DT 002 SGJ,Exca 001 SGJ,23.54,19:18:17.353,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Elvis,Unknown Operator
+2024-09-24,Shift 3,SGJ1,DT 002 SGJ,Exca 001 SGJ,26.7,20:16:35.939,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Elvis,Unknown Operator
+2024-09-24,Shift 3,SGJ1,DT 002 SGJ,Exca 001 SGJ,23.52,20:57:05.827,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Elvis,Unknown Operator
+2024-09-24,Shift 3,SGJ1,DT 003 SGJ,Exca 001 SGJ,24.39,15:54:09.283,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 3,SGJ1,DT 003 SGJ,Exca 001 SGJ,24.37,16:33:04.971,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 3,SGJ1,DT 004 SGJ,Exca 001 SGJ,26.58,20:39:45.435,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Elvis,Unknown Operator
+2024-09-24,Shift 3,SGJ1,DT 004 SGJ,Exca 006 SGJ,23.24,21:34:01.756,TLS 2,RF 10,18000,Timbangan,AL 42,Group C,Rehandling Antar Stock Blok Barat,Checker,Ari Dwi Saputra,Unknown Operator
+2024-09-24,Shift 3,SGJ1,DT 006 SGJ,Exca 004 SGJ,23.74,14:26:49.833,TS CCP,RF 10,4300,Timbangan,MT 47,Group C,Rehandling Blok Barat,Checker,Ridwan Yunis,Unknown Operator
+2024-09-24,Shift 3,SGJ1,DT 006 SGJ,Exca 004 SGJ,25.78,14:46:59.555,TS CCP,RF 10,4300,Timbangan,MT 47,Group C,Rehandling Blok Barat,Checker,Ridwan Yunis,Unknown Operator
+2024-09-24,Shift 3,SGJ1,DT 006 SGJ,Exca 004 SGJ,25.08,15:21:47.038,TS CCP,RF 10,4300,Timbangan,MT 47,Group C,Rehandling Blok Barat,Checker,Ridwan Yunis,Unknown Operator
+2024-09-24,Shift 3,SGJ1,DT 006 SGJ,Exca 004 SGJ,24.34,16:04:26.226,TS CCP,RF 10,4300,Timbangan,MT 47,Group C,Rehandling Blok Barat,Checker,Ridwan Yunis,Unknown Operator
+2024-09-24,Shift 3,SGJ1,DT 006 SGJ,Exca 001 SGJ,26.42,19:52:15.832,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Elvis,Unknown Operator
+2024-09-24,Shift 3,SGJ1,DT 006 SGJ,Exca 001 SGJ,26.06,20:40:06.170,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Elvis,Unknown Operator
+2024-09-24,Shift 3,SGJ1,DT 007 SGJ,Exca 004 SGJ,25.43,14:24:16.891,TS CCP,RF 10,4300,Timbangan,MT 47,Group C,Rehandling Blok Barat,Checker,Ridwan Yunis,Unknown Operator
+2024-09-24,Shift 3,SGJ1,DT 007 SGJ,Exca 004 SGJ,24.97,14:27:46.160,TS CCP,RF 10,4300,Timbangan,MT 47,Group C,Rehandling Blok Barat,Checker,Ridwan Yunis,Unknown Operator
+2024-09-24,Shift 3,SGJ1,DT 007 SGJ,Exca 004 SGJ,25.05,14:55:48.665,TS CCP,RF 10,4300,Timbangan,MT 47,Group C,Rehandling Blok Barat,Checker,Ridwan Yunis,Unknown Operator
+2024-09-24,Shift 3,SGJ1,DT 007 SGJ,Exca 004 SGJ,24.29,15:32:18.442,TS CCP,RF 10,4300,Timbangan,MT 47,Group C,Rehandling Blok Barat,Checker,Ridwan Yunis,Unknown Operator
+2024-09-24,Shift 3,SGJ1,DT 007 SGJ,Exca 004 SGJ,25.21,16:15:00.001,TS CCP,RF 10,4300,Timbangan,MT 47,Group C,Rehandling Blok Barat,Checker,Ridwan Yunis,Unknown Operator
+2024-09-24,Shift 3,SGJ1,DT 007 SGJ,Exca 006 SGJ,24.03,20:07:15.960,TLS 2,RF 10,18000,Timbangan,AL 42,Group C,Rehandling Antar Stock Blok Barat,Checker,Ari Dwi Saputra,Unknown Operator
+2024-09-24,Shift 3,SGJ1,DT 009 SGJ,Exca 001 SGJ,24.54,14:27:13.082,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 3,SGJ1,DT 009 SGJ,Exca 001 SGJ,22.61,15:15:44.784,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 3,SGJ1,DT 009 SGJ,Exca 001 SGJ,25.22,15:29:14.358,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 3,SGJ1,DT 009 SGJ,Exca 006 SGJ,23.81,20:05:30.253,TLS 2,RF 10,18000,Timbangan,AL 42,Group C,Rehandling Antar Stock Blok Barat,Checker,Ari Dwi Saputra,Unknown Operator
+2024-09-24,Shift 3,SGJ1,DT 011 SGJ,Exca 007 SGJ,22.22,19:12:40.427,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Bayu Erlangga,Unknown Operator
+2024-09-24,Shift 3,SGJ1,DT 011 SGJ,Exca 007 SGJ,19.46,19:58:43.984,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Bayu Erlangga,Unknown Operator
+2024-09-24,Shift 3,SGJ1,DT 011 SGJ,Exca 007 SGJ,20,20:43:12.843,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Bayu Erlangga,Unknown Operator
+2024-09-24,Shift 3,SGJ1,DT 011 SGJ,Exca 007 SGJ,20.1,21:53:13.243,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Bayu Erlangga,Unknown Operator
+2024-09-24,Shift 3,SGJ1,DT 012 SGJ,Exca 004 SGJ,26.26,14:25:55.598,TS CCP,RF 10,4300,Timbangan,MT 47,Group C,Rehandling Blok Barat,Checker,Ridwan Yunis,Unknown Operator
+2024-09-24,Shift 3,SGJ1,DT 012 SGJ,Exca 004 SGJ,25.72,14:40:40.708,TS CCP,RF 10,4300,Timbangan,MT 47,Group C,Rehandling Blok Barat,Checker,Ridwan Yunis,Unknown Operator
+2024-09-24,Shift 3,SGJ1,DT 012 SGJ,Exca 004 SGJ,23.92,15:10:21.310,TS CCP,RF 10,4300,Timbangan,MT 47,Group C,Rehandling Blok Barat,Checker,Ridwan Yunis,Unknown Operator
+2024-09-24,Shift 3,SGJ1,DT 012 SGJ,Exca 004 SGJ,24.42,16:12:09.510,TS CCP,RF 10,4300,Timbangan,MT 47,Group C,Rehandling Blok Barat,Checker,Ridwan Yunis,Unknown Operator
+2024-09-24,Shift 3,SGJ1,DT 013 SGJ,Exca 001 SGJ,24.96,14:24:33.586,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 3,SGJ1,DT 013 SGJ,Exca 001 SGJ,25.18,14:30:48.879,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 3,SGJ1,DT 013 SGJ,Exca 001 SGJ,24.44,15:14:45.876,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 3,SGJ1,DT 013 SGJ,Exca 001 SGJ,24.52,16:13:27.469,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 3,SGJ1,DT 013 SGJ,Exca 001 SGJ,24.4,16:45:46.740,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 3,SGJ1,DT 013 SGJ,Exca 006 SGJ,24.42,20:05:43.094,TLS 2,RF 10,18000,Timbangan,AL 42,Group C,Rehandling Antar Stock Blok Barat,Checker,Ari Dwi Saputra,Unknown Operator
+2024-09-24,Shift 3,SGJ1,DT 013 SGJ,Exca 001 SGJ,26.02,21:19:06.319,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Elvis,Unknown Operator
+2024-09-24,Shift 3,SGJ1,DT 014 SGJ,Exca 004 SGJ,23.26,14:26:11.364,TS CCP,RF 10,4300,Timbangan,MT 47,Group C,Rehandling Blok Barat,Checker,Ridwan Yunis,Unknown Operator
+2024-09-24,Shift 3,SGJ1,DT 014 SGJ,Exca 004 SGJ,23.54,14:43:03.565,TS CCP,RF 10,4300,Timbangan,MT 47,Group C,Rehandling Blok Barat,Checker,Ridwan Yunis,Unknown Operator
+2024-09-24,Shift 3,SGJ1,DT 014 SGJ,Exca 004 SGJ,24.16,15:13:22.615,TS CCP,RF 10,4300,Timbangan,MT 47,Group C,Rehandling Blok Barat,Checker,Ridwan Yunis,Unknown Operator
+2024-09-24,Shift 3,SGJ1,DT 014 SGJ,Exca 004 SGJ,25.02,15:51:33.313,TS CCP,RF 10,4300,Timbangan,MT 47,Group C,Rehandling Blok Barat,Checker,Ridwan Yunis,Unknown Operator
+2024-09-24,Shift 3,SGJ1,DT 014 SGJ,Exca 004 SGJ,24.9,16:28:04.122,TS CCP,RF 10,4300,Timbangan,MT 47,Group C,Rehandling Blok Barat,Checker,Ridwan Yunis,Unknown Operator
+2024-09-24,Shift 3,SGJ1,DT 014 SGJ,Exca 001 SGJ,25.98,19:31:11.270,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Elvis,Unknown Operator
+2024-09-24,Shift 3,SGJ1,DT 014 SGJ,Exca 001 SGJ,25.5,20:27:28.724,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Elvis,Unknown Operator
+2024-09-24,Shift 3,SGJ1,DT 014 SGJ,Exca 001 SGJ,24.68,21:17:14.198,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Elvis,Unknown Operator
+2024-09-24,Shift 3,SGJ1,DT 022 SGJ,Exca 001 SGJ,24.46,14:25:11.314,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 3,SGJ1,DT 022 SGJ,Exca 001 SGJ,22.5,14:44:54.240,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 3,SGJ1,DT 022 SGJ,Exca 001 SGJ,25.08,15:14:23.567,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 3,SGJ1,DT 022 SGJ,Exca 001 SGJ,25.18,15:42:31.972,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 3,SGJ1,DT 022 SGJ,Exca 001 SGJ,26.08,16:23:15.608,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 3,SGJ1,DT 022 SGJ,Exca 001 SGJ,24.84,16:59:48.491,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 3,SGJ1,DT 023 SGJ,Exca 007 SGJ,20.32,14:27:13.491,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Andi Saputra,Unknown Operator
+2024-09-24,Shift 3,SGJ1,DT 023 SGJ,Exca 007 SGJ,20.68,15:29:31.073,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Andi Saputra,Unknown Operator
+2024-09-24,Shift 3,SGJ1,DT 023 SGJ,Exca 007 SGJ,20.98,16:29:39.338,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Andi Saputra,Unknown Operator
+2024-09-24,Shift 3,SGJ1,DT 023 SGJ,Exca 007 SGJ,20.16,18:40:15.298,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Bayu Erlangga,Unknown Operator
+2024-09-24,Shift 3,SGJ1,DT 023 SGJ,Exca 007 SGJ,20,19:13:19.210,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Bayu Erlangga,Unknown Operator
+2024-09-24,Shift 3,SGJ1,DT 023 SGJ,Exca 007 SGJ,19.64,20:14:12.680,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Bayu Erlangga,Unknown Operator
+2024-09-24,Shift 3,SGJ1,DT 023 SGJ,Exca 005 PIM,21.18,21:15:29.171,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Bayu Erlangga,Unknown Operator
+2024-09-24,Shift 3,SGJ1,DT 027 SGJ,Exca 001 SGJ,25.92,15:42:07.579,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 3,SGJ1,DT 027 SGJ,Exca 001 SGJ,25.26,16:23:30.719,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 3,SGJ1,DT 027 SGJ,Exca 001 SGJ,26.38,19:23:18.807,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Elvis,Unknown Operator
+2024-09-24,Shift 3,SGJ1,DT 027 SGJ,Exca 001 SGJ,27.04,20:27:08.308,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Elvis,Unknown Operator
+2024-09-24,Shift 3,SGJ1,DT 027 SGJ,Exca 001 SGJ,23.84,21:17:25.444,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Elvis,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 032 SGJ,Exca 003 SGJ,23.8,14:52:34.785,TS Beringin,LS CHF Sumsel,2000,Timbangan,BTA 43,Group C,Rehandling Blok Timur,Checker,Vandrizal Yulianto,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 032 SGJ,Exca 003 SGJ,23.98,15:11:05.020,TS Beringin,LS CHF Sumsel,2000,Timbangan,BTA 43,Group C,Rehandling Blok Timur,Checker,Vandrizal Yulianto,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 032 SGJ,Exca 003 SGJ,25.64,15:34:00.389,TS Beringin,LS CHF Sumsel,2000,Timbangan,BTA 43,Group C,Rehandling Blok Timur,Checker,Vandrizal Yulianto,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 032 SGJ,Exca 003 SGJ,25.02,15:52:09.333,TS Beringin,LS CHF Sumsel,2000,Timbangan,BTA 43,Group C,Rehandling Blok Timur,Checker,Vandrizal Yulianto,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 032 SGJ,Exca 003 SGJ,24.38,16:10:49.735,TS Beringin,LS CHF Sumsel,2000,Timbangan,BTA 43,Group C,Rehandling Blok Timur,Checker,Vandrizal Yulianto,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 032 SGJ,Exca 003 SGJ,23.34,16:50:49.846,TS Beringin,LS CHF Sumsel,2000,Timbangan,BTA 43,Group C,Rehandling Blok Timur,Checker,Vandrizal Yulianto,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 032 SGJ,Exca 003 SGJ,24.72,19:47:14.150,TS Beringin,LS CHF Sumsel,2000,Timbangan,BTA 43,Group C,Rehandling Blok Timur,Checker,Pebriyadi,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 032 SGJ,Exca 003 SGJ,26.78,20:08:30.321,TS Beringin,LS CHF Sumsel,2000,Timbangan,BTA 43,Group C,Rehandling Blok Timur,Checker,Pebriyadi,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 032 SGJ,Exca 003 SGJ,24.48,20:31:49.018,TS Beringin,LS CHF Sumsel,2000,Timbangan,BTA 43,Group C,Rehandling Blok Timur,Checker,Pebriyadi,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 032 SGJ,Exca 003 SGJ,24.06,21:12:54.235,TS Beringin,LS CHF Sumsel,2000,Timbangan,BTA 43,Group C,Rehandling Blok Timur,Checker,Pebriyadi,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 032 SGJ,Exca 003 SGJ,25.28,21:37:00.533,TS Beringin,LS CHF Sumsel,2000,Timbangan,BTA 43,Group C,Rehandling Blok Timur,Checker,Pebriyadi,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 033 SGJ,Exca 007 SGJ,26.52,14:25:52.776,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Andi Saputra,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 033 SGJ,Exca 007 SGJ,24.72,19:30:26.194,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Bayu Erlangga,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 033 SGJ,Exca 005 PIM,26.24,21:08:15.098,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Bayu Erlangga,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 036 SGJ,Exca 007 SGJ,24.08,18:40:34.435,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Bayu Erlangga,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 036 SGJ,Exca 007 SGJ,25.32,19:05:09.259,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Bayu Erlangga,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 036 SGJ,Exca 007 SGJ,24.2,19:50:32.868,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Bayu Erlangga,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 036 SGJ,Exca 007 SGJ,25.34,20:26:52.205,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Bayu Erlangga,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 036 SGJ,Exca 007 SGJ,25.9,21:24:09.233,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Bayu Erlangga,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 038 SGJ,Exca 007 SGJ,25.32,18:50:40.984,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Bayu Erlangga,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 038 SGJ,Exca 007 SGJ,24.94,19:23:18.132,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Bayu Erlangga,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 038 SGJ,Exca 007 SGJ,24.6,20:20:21.809,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Bayu Erlangga,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 038 SGJ,Exca 007 SGJ,25,21:49:15.540,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Bayu Erlangga,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 040 SGJ,Exca 007 SGJ,25.7,14:23:57.498,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Andi Saputra,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 040 SGJ,Exca 007 SGJ,24.94,14:33:49.576,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Andi Saputra,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 040 SGJ,Exca 007 SGJ,26.68,15:31:18.604,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Andi Saputra,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 040 SGJ,Exca 007 SGJ,24.46,19:53:35.119,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Bayu Erlangga,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 040 SGJ,Exca 005 PIM,25.86,21:27:11.264,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Bayu Erlangga,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 041 SGJ,Exca 003 SGJ,24.6,14:52:51.124,TS Beringin,LS CHF Sumsel,2000,Timbangan,BTA 43,Group C,Rehandling Blok Timur,Checker,Vandrizal Yulianto,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 041 SGJ,Exca 003 SGJ,23.08,14:59:14.070,TS Beringin,LS CHF Sumsel,2000,Timbangan,BTA 43,Group C,Rehandling Blok Timur,Checker,Vandrizal Yulianto,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 041 SGJ,Exca 003 SGJ,24.44,15:20:37.011,TS Beringin,LS CHF Sumsel,2000,Timbangan,BTA 43,Group C,Rehandling Blok Timur,Checker,Vandrizal Yulianto,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 041 SGJ,Exca 003 SGJ,23.24,15:39:08.067,TS Beringin,LS CHF Sumsel,2000,Timbangan,BTA 43,Group C,Rehandling Blok Timur,Checker,Vandrizal Yulianto,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 041 SGJ,Exca 003 SGJ,25.34,15:58:06.900,TS Beringin,LS CHF Sumsel,2000,Timbangan,BTA 43,Group C,Rehandling Blok Timur,Checker,Vandrizal Yulianto,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 041 SGJ,Exca 003 SGJ,23.78,16:16:38.541,TS Beringin,LS CHF Sumsel,2000,Timbangan,BTA 43,Group C,Rehandling Blok Timur,Checker,Vandrizal Yulianto,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 041 SGJ,Exca 003 SGJ,23.34,16:35:02.240,TS Beringin,LS CHF Sumsel,2000,Timbangan,BTA 43,Group C,Rehandling Blok Timur,Checker,Vandrizal Yulianto,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 041 SGJ,Exca 003 SGJ,22.26,16:55:19.537,TS Beringin,LS CHF Sumsel,2000,Timbangan,BTA 43,Group C,Rehandling Blok Timur,Checker,Vandrizal Yulianto,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 041 SGJ,Exca 007 SGJ,27.86,18:43:42.571,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Bayu Erlangga,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 041 SGJ,Exca 003 SGJ,24.2,19:58:10.649,TS Beringin,LS CHF Sumsel,2000,Timbangan,BTA 43,Group C,Rehandling Blok Timur,Checker,Pebriyadi,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 041 SGJ,Exca 003 SGJ,24.4,20:20:45.894,TS Beringin,LS CHF Sumsel,2000,Timbangan,BTA 43,Group C,Rehandling Blok Timur,Checker,Pebriyadi,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 041 SGJ,Exca 003 SGJ,24.6,20:52:33.512,TS Beringin,LS CHF Sumsel,2000,Timbangan,BTA 43,Group C,Rehandling Blok Timur,Checker,Pebriyadi,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 041 SGJ,Exca 003 SGJ,24.2,21:22:50.347,TS Beringin,LS CHF Sumsel,2000,Timbangan,BTA 43,Group C,Rehandling Blok Timur,Checker,Pebriyadi,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 041 SGJ,Exca 003 SGJ,24.16,21:44:58.336,TS Beringin,LS CHF Sumsel,2000,Timbangan,BTA 43,Group C,Rehandling Blok Timur,Checker,Pebriyadi,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 042 SGJ,Exca 007 SGJ,25.6,14:26:26.550,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Andi Saputra,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 042 SGJ,Exca 007 SGJ,25.08,15:17:43.884,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Andi Saputra,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 042 SGJ,Exca 007 SGJ,23.04,16:29:22.647,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Andi Saputra,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 043 SGJ,Exca 007 SGJ,24.68,19:04:35.457,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Bayu Erlangga,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 043 SGJ,Exca 007 SGJ,24.08,19:42:25.953,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Bayu Erlangga,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 043 SGJ,Exca 005 PIM,26.54,21:16:52.676,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Bayu Erlangga,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 044 SGJ,Exca 007 SGJ,24.06,14:25:20.275,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Andi Saputra,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 044 SGJ,Exca 007 SGJ,25.48,15:10:08.110,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Andi Saputra,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 044 SGJ,Exca 007 SGJ,26.22,15:57:22.573,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Andi Saputra,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 044 SGJ,Exca 007 SGJ,25.2,18:59:09.423,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Bayu Erlangga,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 044 SGJ,Exca 007 SGJ,25.44,19:38:48.701,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Bayu Erlangga,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 044 SGJ,Exca 007 SGJ,24.16,20:48:17.564,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Bayu Erlangga,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 046 SGJ,Exca 007 SGJ,26.28,14:24:14.061,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Andi Saputra,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 046 SGJ,Exca 007 SGJ,25.3,14:43:36.757,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Andi Saputra,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 046 SGJ,Exca 007 SGJ,25.84,15:34:55.160,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Andi Saputra,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 046 SGJ,Exca 007 SGJ,23.02,16:31:01.191,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Andi Saputra,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 046 SGJ,Exca 007 SGJ,24.46,17:04:09.711,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Andi Saputra,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 046 SGJ,Exca 003 SGJ,25.48,20:00:39.948,TS Beringin,LS CHF Sumsel,2000,Timbangan,BTA 43,Group C,Rehandling Blok Timur,Checker,Pebriyadi,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 046 SGJ,Exca 003 SGJ,26.6,20:18:24.102,TS Beringin,LS CHF Sumsel,2000,Timbangan,BTA 43,Group C,Rehandling Blok Timur,Checker,Pebriyadi,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 046 SGJ,Exca 003 SGJ,25.38,20:42:02.231,TS Beringin,LS CHF Sumsel,2000,Timbangan,BTA 43,Group C,Rehandling Blok Timur,Checker,Pebriyadi,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 046 SGJ,Exca 003 SGJ,24.3,21:16:29.672,TS Beringin,LS CHF Sumsel,2000,Timbangan,BTA 43,Group C,Rehandling Blok Timur,Checker,Pebriyadi,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 046 SGJ,Exca 003 SGJ,24.28,21:42:30.233,TS Beringin,LS CHF Sumsel,2000,Timbangan,BTA 43,Group C,Rehandling Blok Timur,Checker,Pebriyadi,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 048 SGJ,Exca 004 SGJ,22.35,14:24:03.369,TS CCP,RF 10,4300,Timbangan,MT 47,Group C,Rehandling Blok Barat,Checker,Ridwan Yunis,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 048 SGJ,Exca 004 SGJ,23.43,14:27:31.247,TS CCP,RF 10,4300,Timbangan,MT 47,Group C,Rehandling Blok Barat,Checker,Ridwan Yunis,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 048 SGJ,Exca 004 SGJ,24.21,14:52:22.800,TS CCP,RF 10,4300,Timbangan,MT 47,Group C,Rehandling Blok Barat,Checker,Ridwan Yunis,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 048 SGJ,Exca 004 SGJ,23.61,15:31:41.248,TS CCP,RF 10,4300,Timbangan,MT 47,Group C,Rehandling Blok Barat,Checker,Ridwan Yunis,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 048 SGJ,Exca 004 SGJ,22.85,16:18:07.522,TS CCP,RF 10,4300,Timbangan,MT 47,Group C,Rehandling Blok Barat,Checker,Ridwan Yunis,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 048 SGJ,Exca 001 SGJ,26.38,19:18:56.861,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Elvis,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 048 SGJ,Exca 001 SGJ,26.06,20:16:13.107,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Elvis,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 048 SGJ,Exca 001 SGJ,25.44,20:50:16.595,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Elvis,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 049 SGJ,Exca 007 SGJ,24.12,19:47:58.066,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Bayu Erlangga,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 049 SGJ,Exca 005 PIM,24.86,21:04:32.789,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Bayu Erlangga,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 050 SGJ,Exca 007 SGJ,25.02,18:52:43.086,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Bayu Erlangga,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 050 SGJ,Exca 007 SGJ,24.72,19:17:29.343,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Bayu Erlangga,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 050 SGJ,Exca 007 SGJ,25.3,21:14:10.119,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Bayu Erlangga,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 051 SGJ,Exca 003 SGJ,22.08,15:11:23.242,TS Beringin,LS CHF Sumsel,2000,Timbangan,BTA 43,Group C,Rehandling Blok Timur,Checker,Vandrizal Yulianto,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 051 SGJ,Exca 003 SGJ,23.68,15:20:50.943,TS Beringin,LS CHF Sumsel,2000,Timbangan,BTA 43,Group C,Rehandling Blok Timur,Checker,Vandrizal Yulianto,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 051 SGJ,Exca 003 SGJ,23.84,15:41:37.697,TS Beringin,LS CHF Sumsel,2000,Timbangan,BTA 43,Group C,Rehandling Blok Timur,Checker,Vandrizal Yulianto,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 051 SGJ,Exca 003 SGJ,26.74,16:00:32.486,TS Beringin,LS CHF Sumsel,2000,Timbangan,BTA 43,Group C,Rehandling Blok Timur,Checker,Vandrizal Yulianto,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 051 SGJ,Exca 003 SGJ,23.62,16:20:21.187,TS Beringin,LS CHF Sumsel,2000,Timbangan,BTA 43,Group C,Rehandling Blok Timur,Checker,Vandrizal Yulianto,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 051 SGJ,Exca 003 SGJ,22.04,16:53:43.864,TS Beringin,LS CHF Sumsel,2000,Timbangan,BTA 43,Group C,Rehandling Blok Timur,Checker,Vandrizal Yulianto,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 052 SGJ,Exca 003 SGJ,23.56,14:53:03.199,TS Beringin,LS CHF Sumsel,2000,Timbangan,BTA 43,Group C,Rehandling Blok Timur,Checker,Vandrizal Yulianto,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 052 SGJ,Exca 003 SGJ,23.46,15:18:14.835,TS Beringin,LS CHF Sumsel,2000,Timbangan,BTA 43,Group C,Rehandling Blok Timur,Checker,Vandrizal Yulianto,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 052 SGJ,Exca 003 SGJ,23.32,15:36:26.094,TS Beringin,LS CHF Sumsel,2000,Timbangan,BTA 43,Group C,Rehandling Blok Timur,Checker,Vandrizal Yulianto,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 052 SGJ,Exca 003 SGJ,23.88,15:55:20.709,TS Beringin,LS CHF Sumsel,2000,Timbangan,BTA 43,Group C,Rehandling Blok Timur,Checker,Vandrizal Yulianto,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 052 SGJ,Exca 003 SGJ,23.6,16:13:36.717,TS Beringin,LS CHF Sumsel,2000,Timbangan,BTA 43,Group C,Rehandling Blok Timur,Checker,Vandrizal Yulianto,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 052 SGJ,Exca 003 SGJ,22.18,16:39:47.740,TS Beringin,LS CHF Sumsel,2000,Timbangan,BTA 43,Group C,Rehandling Blok Timur,Checker,Vandrizal Yulianto,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 052 SGJ,Exca 007 SGJ,21.74,18:56:23.609,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Bayu Erlangga,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 052 SGJ,Exca 007 SGJ,26.52,19:35:20.744,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Bayu Erlangga,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 052 SGJ,Exca 007 SGJ,25.52,20:51:51.108,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Bayu Erlangga,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 053 SGJ,Exca 007 SGJ,24.26,14:24:31.232,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Andi Saputra,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 053 SGJ,Exca 007 SGJ,24.6,14:46:12.659,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Andi Saputra,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 053 SGJ,Exca 007 SGJ,23.6,15:38:38.997,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Andi Saputra,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 053 SGJ,Exca 007 SGJ,21.62,16:31:16.722,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Andi Saputra,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 053 SGJ,Exca 007 SGJ,24.24,17:06:15.303,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Andi Saputra,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 053 SGJ,Exca 007 SGJ,24.32,18:53:22.841,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Bayu Erlangga,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 053 SGJ,Exca 007 SGJ,22.6,19:57:59.570,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Bayu Erlangga,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 053 SGJ,Exca 007 SGJ,26.06,20:33:48.092,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Bayu Erlangga,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 053 SGJ,Exca 007 SGJ,27.08,21:28:54.330,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Bayu Erlangga,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 054 SGJ,Exca 007 SGJ,27.34,14:26:06.508,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Andi Saputra,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 054 SGJ,Exca 007 SGJ,23.42,15:10:19.451,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Andi Saputra,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 054 SGJ,Exca 007 SGJ,24.74,16:11:25.880,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Andi Saputra,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 054 SGJ,Exca 007 SGJ,23.52,17:00:34.144,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Andi Saputra,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 054 SGJ,Exca 007 SGJ,26.06,19:10:41.876,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Bayu Erlangga,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 054 SGJ,Exca 005 PIM,26.48,21:37:59.630,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Bayu Erlangga,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 055 SGJ,Exca 007 SGJ,22.46,20:26:32.039,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Bayu Erlangga,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 055 SGJ,Exca 007 SGJ,26.08,21:35:07.405,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Bayu Erlangga,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 056 SGJ,Exca 007 SGJ,27.92,14:24:45.563,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Andi Saputra,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 056 SGJ,Exca 007 SGJ,25.18,14:52:39.608,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Andi Saputra,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 056 SGJ,Exca 007 SGJ,23.48,15:47:26.169,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Andi Saputra,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 056 SGJ,Exca 007 SGJ,23.46,16:45:10.942,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Andi Saputra,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 056 SGJ,Exca 005 PIM,23.32,20:37:57.565,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Bayu Erlangga,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 056 SGJ,Exca 005 PIM,26.48,21:36:09.884,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Bayu Erlangga,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 057 SGJ,Exca 007 SGJ,25.24,14:24:59.442,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Andi Saputra,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 057 SGJ,Exca 007 SGJ,22.26,15:09:47.416,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Andi Saputra,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 057 SGJ,Exca 007 SGJ,26,15:52:25.587,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Andi Saputra,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 057 SGJ,Exca 007 SGJ,24.18,19:21:41.572,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Bayu Erlangga,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 057 SGJ,Exca 003 SGJ,26.14,20:31:10.932,TS Beringin,LS CHF Sumsel,2000,Timbangan,BTA 43,Group C,Rehandling Blok Timur,Checker,Pebriyadi,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 057 SGJ,Exca 003 SGJ,24.48,21:08:24.215,TS Beringin,LS CHF Sumsel,2000,Timbangan,BTA 43,Group C,Rehandling Blok Timur,Checker,Pebriyadi,Unknown Operator
+2024-09-24,Shift 3,SGJ2,DT 057 SGJ,Exca 003 SGJ,24.64,21:31:09.948,TS Beringin,LS CHF Sumsel,2000,Timbangan,BTA 43,Group C,Rehandling Blok Timur,Checker,Pebriyadi,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 061 SGJ,Exca 001 SGJ,22.53,14:49:07.110,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 061 SGJ,Exca 006 SGJ,21.32,15:25:32.908,TLS 2,RF 10,18000,Timbangan,AL 42,Group C,Rehandling Antar Stock Blok Barat,Checker,Ridwan Yunis,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 061 SGJ,Exca 001 SGJ,24.03,19:55:41.565,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Elvis,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 061 SGJ,Exca 006 SGJ,22.12,20:38:13.217,TLS 2,RF 10,18000,Timbangan,AL 42,Group C,Rehandling Antar Stock Blok Barat,Checker,Ari Dwi Saputra,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 063 SGJ,Exca 006 SGJ,20.24,14:25:21.831,TLS 2,RF 10,18000,Timbangan,AL 42,Group C,Rehandling Antar Stock Blok Barat,Checker,Ridwan Yunis,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 063 SGJ,Exca 001 SGJ,23.04,15:14:00.342,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 063 SGJ,Exca 006 SGJ,20.84,15:50:38.704,TLS 2,RF 10,18000,Timbangan,AL 42,Group C,Rehandling Antar Stock Blok Barat,Checker,Ridwan Yunis,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 063 SGJ,Exca 001 SGJ,22.5,16:56:19.649,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 063 SGJ,Exca 006 SGJ,21.38,20:06:23.599,TLS 2,RF 10,18000,Timbangan,AL 42,Group C,Rehandling Antar Stock Blok Barat,Checker,Ari Dwi Saputra,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 065 SGJ,Exca 001 SGJ,22.12,14:25:19.965,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 065 SGJ,Exca 006 SGJ,19.2,14:34:47.101,TLS 2,RF 10,18000,Timbangan,AL 42,Group C,Rehandling Antar Stock Blok Barat,Checker,Ridwan Yunis,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 065 SGJ,Exca 001 SGJ,22.8,15:43:09.031,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 065 SGJ,Exca 001 SGJ,22.18,16:25:14.219,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 065 SGJ,Exca 001 SGJ,22.16,16:57:23.043,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 065 SGJ,Exca 006 SGJ,19.78,19:56:47.418,TLS 2,RF 10,18000,Timbangan,AL 42,Group C,Rehandling Antar Stock Blok Barat,Checker,Ari Dwi Saputra,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 065 SGJ,Exca 001 SGJ,21.62,21:22:05.583,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Elvis,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 066 SGJ,Exca 001 SGJ,22.36,19:56:25.418,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Elvis,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 066 SGJ,Exca 001 SGJ,23.76,20:39:54.866,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Elvis,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 066 SGJ,Exca 001 SGJ,21.56,21:54:59.960,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Elvis,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 067 SGJ,Exca 006 SGJ,19.82,14:27:11.763,TLS 2,RF 10,18000,Timbangan,AL 42,Group C,Rehandling Antar Stock Blok Barat,Checker,Ridwan Yunis,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 067 SGJ,Exca 001 SGJ,21.72,15:43:22.280,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 067 SGJ,Exca 006 SGJ,20.32,16:12:44.875,TLS 2,RF 10,18000,Timbangan,AL 42,Group C,Rehandling Antar Stock Blok Barat,Checker,Ridwan Yunis,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 069 SGJ,Exca 006 SGJ,19.86,14:24:35.819,TLS 2,RF 10,18000,Timbangan,AL 42,Group C,Rehandling Antar Stock Blok Barat,Checker,Ridwan Yunis,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 069 SGJ,Exca 001 SGJ,21.34,16:05:15.444,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 069 SGJ,Exca 001 SGJ,21.32,16:37:04.106,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 069 SGJ,Exca 001 SGJ,21.14,17:05:08.973,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 069 SGJ,Exca 001 SGJ,22.14,20:15:52.109,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Elvis,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 069 SGJ,Exca 006 SGJ,22.36,20:58:52.384,TLS 2,RF 10,18000,Timbangan,AL 42,Group C,Rehandling Antar Stock Blok Barat,Checker,Ari Dwi Saputra,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 071 SGJ,Exca 001 SGJ,23.72,19:19:08.328,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Elvis,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 071 SGJ,Exca 001 SGJ,22.22,20:16:23.357,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Elvis,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 071 SGJ,Exca 001 SGJ,23.02,20:56:48.228,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Elvis,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 072 SGJ,Exca 001 SGJ,22.71,14:25:30.195,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 072 SGJ,Exca 001 SGJ,22.73,14:31:59.565,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 072 SGJ,Exca 001 SGJ,23.51,15:00:32.601,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 072 SGJ,Exca 001 SGJ,23.57,15:51:08.376,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 072 SGJ,Exca 001 SGJ,23.09,16:05:58.268,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 072 SGJ,Exca 006 SGJ,22.18,19:57:31.252,TLS 2,RF 10,18000,Timbangan,AL 42,Group C,Rehandling Antar Stock Blok Barat,Checker,Ari Dwi Saputra,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 072 SGJ,Exca 001 SGJ,21.77,21:41:03.583,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Elvis,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 073 SGJ,Exca 006 SGJ,20.5,14:26:31.383,TLS 2,RF 10,18000,Timbangan,AL 42,Group C,Rehandling Antar Stock Blok Barat,Checker,Ridwan Yunis,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 073 SGJ,Exca 001 SGJ,21.86,15:22:33.416,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 073 SGJ,Exca 006 SGJ,20.14,16:04:42.779,TLS 2,RF 10,18000,Timbangan,AL 42,Group C,Rehandling Antar Stock Blok Barat,Checker,Ridwan Yunis,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 073 SGJ,Exca 006 SGJ,19.76,20:52:28.911,TLS 2,RF 10,18000,Timbangan,AL 42,Group C,Rehandling Antar Stock Blok Barat,Checker,Ari Dwi Saputra,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 074 SGJ,Exca 006 SGJ,20.44,14:24:48.396,TLS 2,RF 10,18000,Timbangan,AL 42,Group C,Rehandling Antar Stock Blok Barat,Checker,Ridwan Yunis,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 074 SGJ,Exca 001 SGJ,21.88,15:13:31.393,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 074 SGJ,Exca 006 SGJ,18.68,15:57:12.395,TLS 2,RF 10,18000,Timbangan,AL 42,Group C,Rehandling Antar Stock Blok Barat,Checker,Ridwan Yunis,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 074 SGJ,Exca 001 SGJ,24.02,19:33:20.660,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Elvis,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 074 SGJ,Exca 006 SGJ,21.28,20:21:21.508,TLS 2,RF 10,18000,Timbangan,AL 42,Group C,Rehandling Antar Stock Blok Barat,Checker,Ari Dwi Saputra,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 075 SGJ,Exca 001 SGJ,22.91,14:24:19.198,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 075 SGJ,Exca 001 SGJ,22.05,14:44:26.164,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 075 SGJ,Exca 001 SGJ,22.71,15:13:46.827,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 076 SGJ,Exca 003 SGJ,21.08,20:03:12.945,TS Beringin,LS CHF Sumsel,2000,Timbangan,BTA 43,Group C,Rehandling Blok Timur,Checker,Pebriyadi,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 076 SGJ,Exca 003 SGJ,22.36,20:24:36.062,TS Beringin,LS CHF Sumsel,2000,Timbangan,BTA 43,Group C,Rehandling Blok Timur,Checker,Pebriyadi,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 076 SGJ,Exca 003 SGJ,18.34,21:01:39.110,TS Beringin,LS CHF Sumsel,2000,Timbangan,BTA 43,Group C,Rehandling Blok Timur,Checker,Pebriyadi,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 076 SGJ,Exca 003 SGJ,18.42,21:33:09.328,TS Beringin,LS CHF Sumsel,2000,Timbangan,BTA 43,Group C,Rehandling Blok Timur,Checker,Pebriyadi,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 078 SGJ,Exca 001 SGJ,22.29,14:54:20.719,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 078 SGJ,Exca 001 SGJ,23.06,14:57:57.197,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 078 SGJ,Exca 001 SGJ,23.57,15:42:50.119,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 078 SGJ,Exca 001 SGJ,20.45,16:46:25.188,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 078 SGJ,Exca 006 SGJ,21.23,20:07:51.859,TLS 2,RF 10,18000,Timbangan,AL 42,Group C,Rehandling Antar Stock Blok Barat,Checker,Ari Dwi Saputra,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 078 SGJ,Exca 006 SGJ,20.81,21:50:00.167,TLS 2,RF 10,18000,Timbangan,AL 42,Group C,Rehandling Antar Stock Blok Barat,Checker,Ari Dwi Saputra,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 079 SGJ,Exca 006 SGJ,21.88,20:22:00.165,TLS 2,RF 10,18000,Timbangan,AL 42,Group C,Rehandling Antar Stock Blok Barat,Checker,Ari Dwi Saputra,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 080 SGJ,Exca 001 SGJ,22.93,14:27:27.753,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 080 SGJ,Exca 001 SGJ,20.47,14:44:40.435,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 080 SGJ,Exca 006 SGJ,22.53,19:55:10.891,TLS 2,RF 10,18000,Timbangan,AL 42,Group C,Rehandling Antar Stock Blok Barat,Checker,Ari Dwi Saputra,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 080 SGJ,Exca 001 SGJ,22.91,21:07:31.111,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Elvis,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 081 SGJ,Exca 006 SGJ,20,14:25:34.703,TLS 2,RF 10,18000,Timbangan,AL 42,Group C,Rehandling Antar Stock Blok Barat,Checker,Ridwan Yunis,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 081 SGJ,Exca 001 SGJ,23.57,15:22:58.625,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 081 SGJ,Exca 006 SGJ,18.88,15:57:33.824,TLS 2,RF 10,18000,Timbangan,AL 42,Group C,Rehandling Antar Stock Blok Barat,Checker,Ridwan Yunis,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 081 SGJ,Exca 001 SGJ,22.41,20:44:07.517,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Elvis,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 081 SGJ,Exca 001 SGJ,22.35,21:55:12.513,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Elvis,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 082 SGJ,Exca 001 SGJ,25.04,14:24:47.513,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 082 SGJ,Exca 006 SGJ,23.88,14:37:12.575,TLS 2,RF 10,18000,Timbangan,AL 42,Group C,Rehandling Antar Stock Blok Barat,Checker,Ridwan Yunis,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 082 SGJ,Exca 004 SGJ,27.34,15:10:53.322,TS CCP,RF 10,4300,Timbangan,MT 47,Group C,Rehandling Blok Barat,Checker,Ridwan Yunis,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 082 SGJ,Exca 004 SGJ,23.72,15:46:01.170,TS CCP,RF 10,4300,Timbangan,MT 47,Group C,Rehandling Blok Barat,Checker,Ridwan Yunis,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 082 SGJ,Exca 004 SGJ,23.86,16:14:44.409,TS CCP,RF 10,4300,Timbangan,MT 47,Group C,Rehandling Blok Barat,Checker,Ridwan Yunis,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 082 SGJ,Exca 004 SGJ,25.16,16:37:14.082,TS CCP,RF 10,4300,Timbangan,MT 47,Group C,Rehandling Blok Barat,Checker,Ridwan Yunis,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 082 SGJ,Exca 001 SGJ,24.88,19:48:43.904,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Elvis,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 082 SGJ,Exca 001 SGJ,26.96,20:39:32.890,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Elvis,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 082 SGJ,Exca 001 SGJ,22.68,21:50:05.667,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Elvis,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 084 SGJ,Exca 007 SGJ,25.62,14:25:31.951,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Andi Saputra,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 084 SGJ,Exca 007 SGJ,23.52,14:37:38.732,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Andi Saputra,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 084 SGJ,Exca 007 SGJ,25.7,15:17:21.953,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Andi Saputra,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 084 SGJ,Exca 007 SGJ,23.22,16:15:18.071,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Andi Saputra,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 084 SGJ,Exca 007 SGJ,23.7,17:02:09.342,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Andi Saputra,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 084 SGJ,Exca 003 SGJ,23.56,20:35:01.146,TS Beringin,LS CHF Sumsel,2000,Timbangan,BTA 43,Group C,Rehandling Blok Timur,Checker,Pebriyadi,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 084 SGJ,Exca 003 SGJ,22.16,21:09:09.296,TS Beringin,LS CHF Sumsel,2000,Timbangan,BTA 43,Group C,Rehandling Blok Timur,Checker,Pebriyadi,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 084 SGJ,Exca 003 SGJ,23.54,21:37:08.889,TS Beringin,LS CHF Sumsel,2000,Timbangan,BTA 43,Group C,Rehandling Blok Timur,Checker,Pebriyadi,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 084 SGJ,Exca 003 SGJ,22.74,21:55:46.676,TS Beringin,LS CHF Sumsel,2000,Timbangan,BTA 43,Group C,Rehandling Blok Timur,Checker,Pebriyadi,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 085 SGJ,Exca 001 SGJ,25.5,14:26:50.830,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 085 SGJ,Exca 006 SGJ,23.56,14:53:00.869,TLS 2,RF 10,18000,Timbangan,AL 42,Group C,Rehandling Antar Stock Blok Barat,Checker,Ridwan Yunis,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 085 SGJ,Exca 004 SGJ,25.1,15:19:39.857,TS CCP,RF 10,4300,Timbangan,MT 47,Group C,Rehandling Blok Barat,Checker,Ridwan Yunis,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 085 SGJ,Exca 001 SGJ,22.82,16:13:01.336,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 085 SGJ,Exca 001 SGJ,23.68,19:22:54.741,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Elvis,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 085 SGJ,Exca 006 SGJ,24.02,19:57:14.143,TLS 2,RF 10,18000,Timbangan,AL 42,Group C,Rehandling Antar Stock Blok Barat,Checker,Ari Dwi Saputra,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 085 SGJ,Exca 001 SGJ,27.1,21:45:26.362,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Elvis,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 087 SGJ,Exca 001 SGJ,24.56,14:27:40.621,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 087 SGJ,Exca 006 SGJ,23.4,14:56:11.621,TLS 2,RF 10,18000,Timbangan,AL 42,Group C,Rehandling Antar Stock Blok Barat,Checker,Ridwan Yunis,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 087 SGJ,Exca 004 SGJ,23.78,15:28:04.428,TS CCP,RF 10,4300,Timbangan,MT 47,Group C,Rehandling Blok Barat,Checker,Ridwan Yunis,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 087 SGJ,Exca 001 SGJ,25.12,16:28:38.568,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 087 SGJ,Exca 001 SGJ,24.78,19:30:43.676,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Elvis,Unknown Operator
+2024-09-24,Shift 3,SGJ3,DT 087 SGJ,Exca 006 SGJ,23.94,20:17:05.495,TLS 2,RF 10,18000,Timbangan,AL 42,Group C,Rehandling Antar Stock Blok Barat,Checker,Ari Dwi Saputra,Unknown Operator
+2024-09-24,Shift 3,SPARE,DT 028 SGJ,Exca 004 SGJ,22.81,14:25:06.034,TS CCP,RF 10,4300,Timbangan,MT 47,Group C,Rehandling Blok Barat,Checker,Ridwan Yunis,Unknown Operator
+2024-09-24,Shift 3,SPARE,DT 028 SGJ,Exca 004 SGJ,23.25,14:35:01.789,TS CCP,RF 10,4300,Timbangan,MT 47,Group C,Rehandling Blok Barat,Checker,Ridwan Yunis,Unknown Operator
+2024-09-24,Shift 3,SPARE,DT 028 SGJ,Exca 004 SGJ,25.11,15:09:19.348,TS CCP,RF 10,4300,Timbangan,MT 47,Group C,Rehandling Blok Barat,Checker,Ridwan Yunis,Unknown Operator
+2024-09-24,Shift 3,SPARE,DT 028 SGJ,Exca 004 SGJ,24.19,15:36:22.636,TS CCP,RF 10,4300,Timbangan,MT 47,Group C,Rehandling Blok Barat,Checker,Ridwan Yunis,Unknown Operator
+2024-09-24,Shift 3,SPARE,DT 028 SGJ,Exca 004 SGJ,24.81,16:20:57.533,TS CCP,RF 10,4300,Timbangan,MT 47,Group C,Rehandling Blok Barat,Checker,Ridwan Yunis,Unknown Operator
+2024-09-24,Shift 3,SPARE,DT 028 SGJ,Exca 001 SGJ,25.89,19:30:58.981,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Elvis,Unknown Operator
+2024-09-24,Shift 3,SPARE,DT 028 SGJ,Exca 001 SGJ,26.41,20:27:19.209,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Elvis,Unknown Operator
+2024-09-24,Shift 3,SPARE,DT 028 SGJ,Exca 001 SGJ,25.87,21:01:59.854,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Elvis,Unknown Operator
+2024-09-24,Shift 3,SPARE,DT 059 SGJ,Exca 007 SGJ,24.12,14:34:00.284,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Andi Saputra,Unknown Operator
+2024-09-24,Shift 3,SPARE,DT 059 SGJ,Exca 007 SGJ,25.02,15:10:33.493,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Andi Saputra,Unknown Operator
+2024-09-24,Shift 3,SPARE,DT 059 SGJ,Exca 007 SGJ,25.4,16:11:51.762,LS DH 4,DH 4,800,Timbangan,BB 51,Group C,Rehandling Antar Stock Blok Timur,Checker,Andi Saputra,Unknown Operator
+2024-09-24,Shift 3,SPARE,DT 059 SGJ,Exca 003 SGJ,24.92,19:52:00.387,TS Beringin,LS CHF Sumsel,2000,Timbangan,BTA 43,Group C,Rehandling Blok Timur,Checker,Pebriyadi,Unknown Operator
+2024-09-24,Shift 3,SPARE,DT 059 SGJ,Exca 003 SGJ,25.38,20:12:04.980,TS Beringin,LS CHF Sumsel,2000,Timbangan,BTA 43,Group C,Rehandling Blok Timur,Checker,Pebriyadi,Unknown Operator
+2024-09-24,Shift 3,SPARE,DT 059 SGJ,Exca 003 SGJ,24.68,20:37:38.391,TS Beringin,LS CHF Sumsel,2000,Timbangan,BTA 43,Group C,Rehandling Blok Timur,Checker,Pebriyadi,Unknown Operator
+2024-09-24,Shift 3,SPARE,DT 059 SGJ,Exca 003 SGJ,25.44,21:12:45.346,TS Beringin,LS CHF Sumsel,2000,Timbangan,BTA 43,Group C,Rehandling Blok Timur,Checker,Pebriyadi,Unknown Operator
+2024-09-24,Shift 3,SPARE,DT 059 SGJ,Exca 003 SGJ,22.9,21:37:57.329,TS Beringin,LS CHF Sumsel,2000,Timbangan,BTA 43,Group C,Rehandling Blok Timur,Checker,Pebriyadi,Unknown Operator
+2024-09-24,Shift 3,SPARE,DT 088 SGJ,Exca 006 SGJ,22.66,20:05:07.248,TLS 2,RF 10,18000,Timbangan,AL 42,Group C,Rehandling Antar Stock Blok Barat,Checker,Ari Dwi Saputra,Unknown Operator
+2024-09-24,Shift 3,SPARE,DT 088 SGJ,Exca 001 SGJ,23.4,21:47:23.184,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Elvis,Unknown Operator
+2024-09-24,Shift 3,SPARE,DT 089 SGJ,Exca 001 SGJ,25.44,14:44:05.925,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 3,SPARE,DT 089 SGJ,Exca 006 SGJ,22.61,15:22:23.456,TLS 2,RF 10,18000,Timbangan,AL 42,Group C,Rehandling Antar Stock Blok Barat,Checker,Ridwan Yunis,Unknown Operator
+2024-09-24,Shift 3,SPARE,DT 089 SGJ,Exca 001 SGJ,24.3,16:23:03.468,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 3,SPARE,DT 089 SGJ,Exca 001 SGJ,23.52,16:53:33.625,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Rahmad Hidayat,Unknown Operator
+2024-09-24,Shift 3,SPARE,DT 089 SGJ,Exca 006 SGJ,22.53,19:54:22.018,TLS 2,RF 10,18000,Timbangan,AL 42,Group C,Rehandling Antar Stock Blok Barat,Checker,Ari Dwi Saputra,Unknown Operator
+2024-09-24,Shift 3,SPARE,DT 089 SGJ,Exca 001 SGJ,23.52,21:03:25.698,Elevasi 35 Utara,TLS 2,4500,Timbangan,MT 47,Group C,Rehandling Antar Stock Blok Barat,Checker,Elvis,Unknown Operator
