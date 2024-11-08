@@ -2,7 +2,7 @@ yang belum done :
 - Connect API
 - Connect UbuntuServer (Buat yang excel online diakses semua orang).
 - bagaimana caranya kode dari local ke githup kemudian dari githup ke server (tools git)
-
+-
 - buat grafik baru top 10 operator dump truck berdasarkan skoring jarak dari ritase , setiap 1km skor nya 1, bila ada yang kelebihan minimal 500meter maka akan dibulatkan keatas contoh nya misal 2.5km maka dapat skor 3.
 
 
