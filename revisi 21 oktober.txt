@@ -1,0 +1,48 @@
+yang belum done :
+- Connect API
+- Connect UbuntuServer (Buat yang excel online diakses semua orang).
+- bagaimana caranya kode dari local ke githup kemudian dari githup ke server (tools git)
+
+- buat grafik baru top 10 operator dump truck berdasarkan skoring jarak dari ritase , setiap 1km skor nya 1, bila ada yang kelebihan minimal 500meter maka akan dibulatkan keatas contoh nya misal 2.5km maka dapat skor 3.
+
+
+revisi done :
+- semua jam pada jam dumping analysis ditampilkan
+- Tambah total di kolom paling bawah Target rakor vs actual dan Target SPPH/Mitra vs Actual
+- dan pada target rakor tidak hanya total bulanan saja tetapi bisa menampilkan harian/mingguan nya pada tabel.
+- buat agar bisa membaca lebih dari 1 sheet(menggunakan query)
+- seluruh grafik dibuat interaktif agar bisa klik semua mitra/spph satu-satu.
+- pada jam dumping analysis grafik nya masih belum rapih dan baru ada harian dan mingguan mitra , tetapi belum ada yang keseluruhan total jam dumping nya
+- dashboard dibuat lebih interaktif
+- filter lokasi di jam dumping
+- multi choise mitra di jam dumping
+- tabel dan grafik di jam dumping sudah sinkronisasi
+- pada target rakor totalnya hanya dibagi total tonase dan target total rakor agar persentase achievement nya sesuai.(note 0 nya tidak perlu dibaca)
+- pada target spph totalnya hanya dibagi total tonase dan target total rakor agar persentase achievement nya sesuai. (note 0 nya tidak perlu dibaca)
+- total tonase yang ter duplicate/x2
+- pada seluruh grafik tolong tambahkan SGJ total gabungan dari SGJ1,SGJ2,SGJ3 dan SPARE (untuk sgj total menggunakan multiselect mitra sgj1-spare)
+- pab itu keseluruhan target rakor mitra pada realisasi visualiasinya dipisah.
+- pada jam dumping analysis tambahkan filter untuk memilih Dump Truck yang ingin dianalisis jam dumping nya.
+- pada jam dumping ditambahkan rata-rata ritase yang bisa diambil dari tonase nya. (Group By DT, karena 1 baris tonase di excel itu 1 ritase)
+- Pada grafik ritase cukup tampilkan total ritase per jam dumping nya saja.
+- pada grafik dan tabel ritase ditambah dengan satu kolom tabel lagi yaitu rata-rata ritase yang didapat dari total ritase dibagi dengan hari 
+- pada target rakor mingguan dan harian cek kembali rumusnya , jika tidak bisa maka dihilangin ( SPPH & Rakor )
+- pada kolom difference jika target nya 0 maka difference nya juga 0 jangan dikalkulasi/minus.
+- pada spph analysis tambahkan chart batangan sgj total dan grand total mitra.
+- Pada Tabel Rakor dan SPPH tambahkan SGJ Total dan Grand Total Mitra.
+- point dua angka di belakang koma dari yang sebelumnya contoh 1,709 menjadi 1,71
+- tambah grafik top operator DT berdasarkan banyaknya ritase. ( 10 paling tertinggi ritase dan 10 paling sedikit ritase )
+- pada top operator dt pada pilihan mitra untuk sgj1,sgj2,sgj3,spare dijadikan satu SGJ saja.
+- pada top operator dt ditambahkan juga tabel nama operator yang tidak masuk Top 10.
+- kasih pembatas antar grafik / tabel.
+- pada tabel top operator dt di urutkan sesuai  ritase nya sampai ritase paling rendah.
+- pada jam dumping analysis ditambahkan sgj total pada pilihan mitra namun tetap ada sgj satu2.
+- pada tabel top operator dimasukan juga yang digrafik ke dalam tabel jgn terpisah. 
+- mengecilkan ukuran tabel top operator DT
+- tambahkan tombol download pada tabel top operator.
+- pada target rakor, houskeeping tidak perlu dimasukan pada totalnya.
+- target rakor dan spph di input satu kali perbulan. (simpan di database mysql atau yg lainya) (saya simpan di json file local)
+- Tombol refresh pada jam dumping dan pada top operator |
+- filter pada jam dumping dan top operator tidak ke triger sebelum tombol refresh ditekan.
+- Agar idak lemot loading nya maka ditambahkan refresh pada masing masing filter chart nya.( a synchronous )
+- Tabel nya dibuat lebih interaktif lagi dan menjadi satu,kalau di excel namanya slicer.

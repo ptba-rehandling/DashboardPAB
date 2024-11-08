@@ -1,7 +1,0 @@
-github untuk simpan source code 
-git - untuk simpan,narik,managament source code nya
-atau memakai filezila(sftp)
-cara membuat codingan live di server
-cara membuat localhost live di ubuntuserver 
-mengelompokan jam dumping nya menjadi perjam 
-
